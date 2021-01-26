@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import matplotlib.pyplot as plt
 import numpy as np
 
 import person
@@ -32,3 +33,11 @@ ages_mean = np.mean(array_of_ages)
 print(f"The average age is: {ages_mean}")
 heights_mean = np.mean(array_of_heights_cm)
 print(f"The average height is: {heights_mean}")
+
+plt.scatter(array_of_ages, array_of_heights_cm)
+plt.xlabel("Ages")
+plt.ylabel("Heights (cm)")
+plt.grid(True)
+plt.title("Ages vs. Heights Plot")
+plt.savefig("./age-vs-height-plot.png")
+plt.show()
