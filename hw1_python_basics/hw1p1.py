@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+import numpy as np
+
 import person
 
 list_of_names = ['Roger', 'Mary', 'Luisa', 'Elvis']
@@ -23,4 +25,10 @@ for i in range(len(list_of_names)):
     ,height=  list_of_ages[i]
   )
 
-print(people)
+array_of_ages  = np.array(list_of_ages)
+array_of_heights_cm = np.array(list_of_heights_cm)
+
+ages_mean = np.mean(array_of_ages)
+print(f"The average age is: {ages_mean}")
+heights_mean = np.mean(array_of_heights_cm)
+print(f"The average height is: {heights_mean}")
