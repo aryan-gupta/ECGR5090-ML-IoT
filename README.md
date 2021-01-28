@@ -1,4 +1,4 @@
 # ECGR4090-ML-IoT
-Template repository for assignments for ECGR 4090/5090 ML for IoT
+Repository for assignments for ECGR 4090/5090 ML for IoT
 
-You will pull from this repo as assignments are updated.
+An up-to-date copy of this repo can be accessed at [https://github.com/aryan-gupta/ECGR5090-ML-IoT](https://github.com/aryan-gupta/ECGR5090-ML-IoT)
