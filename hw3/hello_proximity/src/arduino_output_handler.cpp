@@ -13,6 +13,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ==============================================================================*/
 
+#include <Arduino_APDS9960.h>
+
 #include "output_handler.h"
 
 #include "Arduino.h"
@@ -27,6 +29,38 @@ bool initialized = false;
 // Animates a dot across the screen to represent the current x and y values
 void HandleOutput(tflite::ErrorReporter* error_reporter, float x_value,
                   float y_value) {
+  
+  // should the led be running?
+  // this is static because we want this variable to
+  // carry its value over function calls. For example,
+  // if there isnt any proximity data available then it
+  // will use the last state of the function call.
+  static bool run_led = true;
+
+  // check if a proximity reading is available
+  if (APDS.proximityAvailable()) {
+    // read the proximity
+    // - 0   => close
+    // - 255 => far
+    // - -1  => error
+    int proximity = APDS.readProximity();
+
+    // print value to the Serial Monitor
+    Serial.println(proximity);
+
+    if (proximity < 225 and proximity > 175) {
+      run_led = false;
+    } else {
+      run_led = true;
+    }
+  }
+
+  // if we arent running the led (because hand is near) then
+  // set the y value to -1 which will turn off the led
+  if (!run_led) {
+    y_value = -1;
+  }
+
   // Do this only once
   if (!initialized) {
     // Set the LED pin to output

@@ -14,6 +14,7 @@ limitations under the License.
 ==============================================================================*/
 
 #include <TensorFlowLite.h>
+#include <Arduino_APDS9960.h>
 
 #include "main_functions.h"
 
@@ -86,6 +87,13 @@ void setup() {
 
   // Keep track of how many inferences we have performed.
   inference_count = 0;
+
+  Serial.begin(9600);
+  while (!Serial);
+
+  if (!APDS.begin()) {
+    Serial.println("Error initializing APDS9960 sensor!");
+  }
 }
 
 // The name of this function is important for Arduino compatibility.
