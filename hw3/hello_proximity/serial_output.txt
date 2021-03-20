@@ -1,0 +1,10000 @@
+101	:: LED
+253	:: Hand Not Detected
+101	:: LED
+101	:: LED
+253	:: Hand Not Detected
+101	:: LED
+101	:: LED
+253	:: Hand Not Detected
+101	:: LED
+101	:: LED
+254	:: Hand Not Detected
+103	:: LED
+103	:: LED
+253	:: Hand Not Detected
+103	:: LED
+103	:: LED
+251	:: Hand Not Detected
+93	:: LED
+93	:: LED
+253	:: Hand Not Detected
+93	:: LED
+93	:: LED
+253	:: Hand Not Detected
+93	:: LED
+93	:: LED
+253	:: Hand Not Detected
+93	:: LED
+93	:: LED
+253	:: Hand Not Detected
+93	:: LED
+93	:: LED
+253	:: Hand Not Detected
+93	:: LED
+93	:: LED
+253	:: Hand Not Detected
+86	:: LED
+86	:: LED
+253	:: Hand Not Detected
+86	:: LED
+86	:: LED
+252	:: Hand Not Detected
+87	:: LED
+87	:: LED
+253	:: Hand Not Detected
+87	:: LED
+87	:: LED
+252	:: Hand Not Detected
+77	:: LED
+77	:: LED
+253	:: Hand Not Detected
+77	:: LED
+77	:: LED
+252	:: Hand Not Detected
+77	:: LED
+77	:: LED
+253	:: Hand Not Detected
+77	:: LED
+77	:: LED
+253	:: Hand Not Detected
+79	:: LED
+79	:: LED
+253	:: Hand Not Detected
+79	:: LED
+72	:: LED
+253	:: Hand Not Detected
+72	:: LED
+72	:: LED
+254	:: Hand Not Detected
+72	:: LED
+73	:: LED
+253	:: Hand Not Detected
+73	:: LED
+73	:: LED
+252	:: Hand Not Detected
+73	:: LED
+72	:: LED
+253	:: Hand Not Detected
+72	:: LED
+72	:: LED
+252	:: Hand Not Detected
+72	:: LED
+64	:: LED
+254	:: Hand Not Detected
+64	:: LED
+64	:: LED
+253	:: Hand Not Detected
+64	:: LED
+65	:: LED
+253	:: Hand Not Detected
+65	:: LED
+65	:: LED
+253	:: Hand Not Detected
+65	:: LED
+57	:: LED
+253	:: Hand Not Detected
+57	:: LED
+57	:: LED
+254	:: Hand Not Detected
+57	:: LED
+58	:: LED
+253	:: Hand Not Detected
+58	:: LED
+58	:: LED
+251	:: Hand Not Detected
+58	:: LED
+58	:: LED
+251	:: Hand Not Detected
+58	:: LED
+58	:: LED
+253	:: Hand Not Detected
+58	:: LED
+49	:: LED
+253	:: Hand Not Detected
+49	:: LED
+49	:: LED
+254	:: Hand Not Detected
+49	:: LED
+50	:: LED
+252	:: Hand Not Detected
+50	:: LED
+50	:: LED
+252	:: Hand Not Detected
+50	:: LED
+52	:: LED
+253	:: Hand Not Detected
+52	:: LED
+52	:: LED
+252	:: Hand Not Detected
+44	:: LED
+44	:: LED
+252	:: Hand Not Detected
+44	:: LED
+44	:: LED
+253	:: Hand Not Detected
+43	:: LED
+43	:: LED
+253	:: Hand Not Detected
+43	:: LED
+43	:: LED
+253	:: Hand Not Detected
+34	:: LED
+34	:: LED
+253	:: Hand Not Detected
+34	:: LED
+34	:: LED
+253	:: Hand Not Detected
+35	:: LED
+35	:: LED
+253	:: Hand Not Detected
+35	:: LED
+35	:: LED
+253	:: Hand Not Detected
+35	:: LED
+35	:: LED
+253	:: Hand Not Detected
+35	:: LED
+35	:: LED
+253	:: Hand Not Detected
+32	:: LED
+32	:: LED
+253	:: Hand Not Detected
+32	:: LED
+32	:: LED
+253	:: Hand Not Detected
+36	:: LED
+36	:: LED
+253	:: Hand Not Detected
+36	:: LED
+36	:: LED
+253	:: Hand Not Detected
+37	:: LED
+37	:: LED
+254	:: Hand Not Detected
+37	:: LED
+37	:: LED
+252	:: Hand Not Detected
+26	:: LED
+26	:: LED
+253	:: Hand Not Detected
+26	:: LED
+26	:: LED
+253	:: Hand Not Detected
+28	:: LED
+28	:: LED
+253	:: Hand Not Detected
+28	:: LED
+28	:: LED
+253	:: Hand Not Detected
+24	:: LED
+24	:: LED
+253	:: Hand Not Detected
+24	:: LED
+24	:: LED
+252	:: Hand Not Detected
+24	:: LED
+24	:: LED
+253	:: Hand Not Detected
+24	:: LED
+23	:: LED
+253	:: Hand Not Detected
+23	:: LED
+23	:: LED
+253	:: Hand Not Detected
+23	:: LED
+18	:: LED
+253	:: Hand Not Detected
+18	:: LED
+18	:: LED
+253	:: Hand Not Detected
+18	:: LED
+24	:: LED
+252	:: Hand Not Detected
+24	:: LED
+24	:: LED
+252	:: Hand Not Detected
+24	:: LED
+24	:: LED
+253	:: Hand Not Detected
+24	:: LED
+24	:: LED
+253	:: Hand Not Detected
+24	:: LED
+15	:: LED
+254	:: Hand Not Detected
+15	:: LED
+15	:: LED
+253	:: Hand Not Detected
+15	:: LED
+18	:: LED
+254	:: Hand Not Detected
+18	:: LED
+18	:: LED
+253	:: Hand Not Detected
+18	:: LED
+8	:: LED
+253	:: Hand Not Detected
+8	:: LED
+8	:: LED
+253	:: Hand Not Detected
+8	:: LED
+17	:: LED
+251	:: Hand Not Detected
+17	:: LED
+17	:: LED
+253	:: Hand Not Detected
+17	:: LED
+16	:: LED
+253	:: Hand Not Detected
+16	:: LED
+16	:: LED
+252	:: Hand Not Detected
+16	:: LED
+6	:: LED
+253	:: Hand Not Detected
+6	:: LED
+6	:: LED
+253	:: Hand Not Detected
+6	:: LED
+8	:: LED
+253	:: Hand Not Detected
+8	:: LED
+8	:: LED
+253	:: Hand Not Detected
+9	:: LED
+9	:: LED
+253	:: Hand Not Detected
+9	:: LED
+9	:: LED
+253	:: Hand Not Detected
+5	:: LED
+5	:: LED
+253	:: Hand Not Detected
+5	:: LED
+5	:: LED
+252	:: Hand Not Detected
+6	:: LED
+6	:: LED
+252	:: Hand Not Detected
+6	:: LED
+6	:: LED
+253	:: Hand Not Detected
+-1	:: LED
+-1	:: LED
+252	:: Hand Not Detected
+-1	:: LED
+-1	:: LED
+253	:: Hand Not Detected
+1	:: LED
+1	:: LED
+252	:: Hand Not Detected
+1	:: LED
+1	:: LED
+254	:: Hand Not Detected
+6	:: LED
+6	:: LED
+253	:: Hand Not Detected
+6	:: LED
+6	:: LED
+252	:: Hand Not Detected
+-2	:: LED
+-2	:: LED
+252	:: Hand Not Detected
+-2	:: LED
+-2	:: LED
+252	:: Hand Not Detected
+-3	:: LED
+-3	:: LED
+253	:: Hand Not Detected
+-3	:: LED
+-3	:: LED
+253	:: Hand Not Detected
+-2	:: LED
+-2	:: LED
+255	:: Hand Not Detected
+-2	:: LED
+-2	:: LED
+251	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+254	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+253	:: Hand Not Detected
+-3	:: LED
+-3	:: LED
+253	:: Hand Not Detected
+-3	:: LED
+-11	:: LED
+253	:: Hand Not Detected
+-11	:: LED
+-11	:: LED
+252	:: Hand Not Detected
+-11	:: LED
+-10	:: LED
+253	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+253	:: Hand Not Detected
+-10	:: LED
+-9	:: LED
+253	:: Hand Not Detected
+-9	:: LED
+-9	:: LED
+251	:: Hand Not Detected
+-9	:: LED
+-12	:: LED
+253	:: Hand Not Detected
+-12	:: LED
+-12	:: LED
+254	:: Hand Not Detected
+-12	:: LED
+-12	:: LED
+253	:: Hand Not Detected
+-12	:: LED
+-12	:: LED
+253	:: Hand Not Detected
+-12	:: LED
+-12	:: LED
+253	:: Hand Not Detected
+-12	:: LED
+-12	:: LED
+253	:: Hand Not Detected
+-12	:: LED
+-10	:: LED
+253	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+254	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+251	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+252	:: Hand Not Detected
+-10	:: LED
+-4	:: LED
+253	:: Hand Not Detected
+-4	:: LED
+-4	:: LED
+253	:: Hand Not Detected
+-4	:: LED
+-2	:: LED
+253	:: Hand Not Detected
+-2	:: LED
+-2	:: LED
+253	:: Hand Not Detected
+-2	:: LED
+-1	:: LED
+253	:: Hand Not Detected
+-1	:: LED
+-1	:: LED
+253	:: Hand Not Detected
+-1	:: LED
+-1	:: LED
+253	:: Hand Not Detected
+-1	:: LED
+-1	:: LED
+253	:: Hand Not Detected
+2	:: LED
+2	:: LED
+253	:: Hand Not Detected
+2	:: LED
+2	:: LED
+253	:: Hand Not Detected
+7	:: LED
+7	:: LED
+254	:: Hand Not Detected
+7	:: LED
+7	:: LED
+253	:: Hand Not Detected
+8	:: LED
+8	:: LED
+253	:: Hand Not Detected
+8	:: LED
+8	:: LED
+253	:: Hand Not Detected
+7	:: LED
+7	:: LED
+252	:: Hand Not Detected
+7	:: LED
+7	:: LED
+252	:: Hand Not Detected
+8	:: LED
+8	:: LED
+253	:: Hand Not Detected
+8	:: LED
+8	:: LED
+253	:: Hand Not Detected
+15	:: LED
+15	:: LED
+252	:: Hand Not Detected
+15	:: LED
+15	:: LED
+253	:: Hand Not Detected
+16	:: LED
+16	:: LED
+253	:: Hand Not Detected
+16	:: LED
+16	:: LED
+253	:: Hand Not Detected
+17	:: LED
+17	:: LED
+252	:: Hand Not Detected
+17	:: LED
+17	:: LED
+253	:: Hand Not Detected
+19	:: LED
+19	:: LED
+253	:: Hand Not Detected
+19	:: LED
+19	:: LED
+253	:: Hand Not Detected
+20	:: LED
+20	:: LED
+253	:: Hand Not Detected
+20	:: LED
+20	:: LED
+253	:: Hand Not Detected
+26	:: LED
+26	:: LED
+253	:: Hand Not Detected
+26	:: LED
+25	:: LED
+253	:: Hand Not Detected
+25	:: LED
+25	:: LED
+252	:: Hand Not Detected
+25	:: LED
+25	:: LED
+254	:: Hand Not Detected
+25	:: LED
+25	:: LED
+254	:: Hand Not Detected
+25	:: LED
+26	:: LED
+252	:: Hand Not Detected
+26	:: LED
+26	:: LED
+251	:: Hand Not Detected
+26	:: LED
+34	:: LED
+251	:: Hand Not Detected
+34	:: LED
+34	:: LED
+253	:: Hand Not Detected
+34	:: LED
+34	:: LED
+253	:: Hand Not Detected
+34	:: LED
+34	:: LED
+251	:: Hand Not Detected
+34	:: LED
+36	:: LED
+253	:: Hand Not Detected
+36	:: LED
+36	:: LED
+254	:: Hand Not Detected
+36	:: LED
+37	:: LED
+253	:: Hand Not Detected
+37	:: LED
+37	:: LED
+253	:: Hand Not Detected
+37	:: LED
+37	:: LED
+252	:: Hand Not Detected
+37	:: LED
+37	:: LED
+254	:: Hand Not Detected
+37	:: LED
+44	:: LED
+253	:: Hand Not Detected
+44	:: LED
+44	:: LED
+252	:: Hand Not Detected
+44	:: LED
+44	:: LED
+253	:: Hand Not Detected
+44	:: LED
+44	:: LED
+253	:: Hand Not Detected
+44	:: LED
+47	:: LED
+253	:: Hand Not Detected
+47	:: LED
+47	:: LED
+253	:: Hand Not Detected
+47	:: LED
+47	:: LED
+254	:: Hand Not Detected
+47	:: LED
+47	:: LED
+252	:: Hand Not Detected
+47	:: LED
+47	:: LED
+254	:: Hand Not Detected
+47	:: LED
+47	:: LED
+253	:: Hand Not Detected
+54	:: LED
+54	:: LED
+254	:: Hand Not Detected
+54	:: LED
+54	:: LED
+252	:: Hand Not Detected
+55	:: LED
+55	:: LED
+253	:: Hand Not Detected
+55	:: LED
+55	:: LED
+253	:: Hand Not Detected
+56	:: LED
+56	:: LED
+252	:: Hand Not Detected
+56	:: LED
+56	:: LED
+252	:: Hand Not Detected
+58	:: LED
+58	:: LED
+254	:: Hand Not Detected
+58	:: LED
+58	:: LED
+252	:: Hand Not Detected
+64	:: LED
+64	:: LED
+253	:: Hand Not Detected
+64	:: LED
+64	:: LED
+254	:: Hand Not Detected
+65	:: LED
+65	:: LED
+252	:: Hand Not Detected
+65	:: LED
+65	:: LED
+253	:: Hand Not Detected
+68	:: LED
+68	:: LED
+253	:: Hand Not Detected
+68	:: LED
+68	:: LED
+252	:: Hand Not Detected
+68	:: LED
+68	:: LED
+252	:: Hand Not Detected
+68	:: LED
+68	:: LED
+254	:: Hand Not Detected
+66	:: LED
+66	:: LED
+253	:: Hand Not Detected
+66	:: LED
+72	:: LED
+253	:: Hand Not Detected
+72	:: LED
+72	:: LED
+253	:: Hand Not Detected
+72	:: LED
+75	:: LED
+253	:: Hand Not Detected
+75	:: LED
+75	:: LED
+253	:: Hand Not Detected
+75	:: LED
+76	:: LED
+253	:: Hand Not Detected
+76	:: LED
+76	:: LED
+253	:: Hand Not Detected
+76	:: LED
+76	:: LED
+253	:: Hand Not Detected
+76	:: LED
+76	:: LED
+253	:: Hand Not Detected
+76	:: LED
+83	:: LED
+253	:: Hand Not Detected
+83	:: LED
+83	:: LED
+253	:: Hand Not Detected
+83	:: LED
+84	:: LED
+253	:: Hand Not Detected
+84	:: LED
+84	:: LED
+254	:: Hand Not Detected
+84	:: LED
+85	:: LED
+251	:: Hand Not Detected
+85	:: LED
+85	:: LED
+252	:: Hand Not Detected
+85	:: LED
+85	:: LED
+253	:: Hand Not Detected
+85	:: LED
+85	:: LED
+252	:: Hand Not Detected
+85	:: LED
+86	:: LED
+252	:: Hand Not Detected
+86	:: LED
+86	:: LED
+253	:: Hand Not Detected
+86	:: LED
+92	:: LED
+253	:: Hand Not Detected
+92	:: LED
+92	:: LED
+253	:: Hand Not Detected
+92	:: LED
+93	:: LED
+252	:: Hand Not Detected
+93	:: LED
+93	:: LED
+253	:: Hand Not Detected
+92	:: LED
+92	:: LED
+253	:: Hand Not Detected
+92	:: LED
+92	:: LED
+253	:: Hand Not Detected
+95	:: LED
+95	:: LED
+253	:: Hand Not Detected
+95	:: LED
+95	:: LED
+253	:: Hand Not Detected
+96	:: LED
+96	:: LED
+253	:: Hand Not Detected
+96	:: LED
+96	:: LED
+252	:: Hand Not Detected
+102	:: LED
+102	:: LED
+253	:: Hand Not Detected
+102	:: LED
+102	:: LED
+253	:: Hand Not Detected
+104	:: LED
+104	:: LED
+253	:: Hand Not Detected
+104	:: LED
+104	:: LED
+252	:: Hand Not Detected
+105	:: LED
+105	:: LED
+252	:: Hand Not Detected
+105	:: LED
+105	:: LED
+253	:: Hand Not Detected
+106	:: LED
+106	:: LED
+253	:: Hand Not Detected
+106	:: LED
+106	:: LED
+253	:: Hand Not Detected
+112	:: LED
+112	:: LED
+253	:: Hand Not Detected
+112	:: LED
+112	:: LED
+253	:: Hand Not Detected
+123	:: LED
+123	:: LED
+253	:: Hand Not Detected
+128	:: LED
+128	:: LED
+251	:: Hand Not Detected
+128	:: LED
+128	:: LED
+253	:: Hand Not Detected
+135	:: LED
+135	:: LED
+254	:: Hand Not Detected
+135	:: LED
+135	:: LED
+253	:: Hand Not Detected
+136	:: LED
+136	:: LED
+253	:: Hand Not Detected
+136	:: LED
+136	:: LED
+253	:: Hand Not Detected
+141	:: LED
+141	:: LED
+252	:: Hand Not Detected
+141	:: LED
+141	:: LED
+253	:: Hand Not Detected
+142	:: LED
+142	:: LED
+253	:: Hand Not Detected
+142	:: LED
+142	:: LED
+251	:: Hand Not Detected
+148	:: LED
+148	:: LED
+253	:: Hand Not Detected
+148	:: LED
+148	:: LED
+253	:: Hand Not Detected
+153	:: LED
+153	:: LED
+253	:: Hand Not Detected
+153	:: LED
+153	:: LED
+250	:: Hand Not Detected
+155	:: LED
+155	:: LED
+252	:: Hand Not Detected
+155	:: LED
+155	:: LED
+252	:: Hand Not Detected
+159	:: LED
+159	:: LED
+252	:: Hand Not Detected
+159	:: LED
+159	:: LED
+252	:: Hand Not Detected
+165	:: LED
+165	:: LED
+252	:: Hand Not Detected
+165	:: LED
+165	:: LED
+253	:: Hand Not Detected
+168	:: LED
+168	:: LED
+252	:: Hand Not Detected
+168	:: LED
+172	:: LED
+253	:: Hand Not Detected
+172	:: LED
+172	:: LED
+252	:: Hand Not Detected
+172	:: LED
+173	:: LED
+253	:: Hand Not Detected
+173	:: LED
+173	:: LED
+253	:: Hand Not Detected
+173	:: LED
+178	:: LED
+252	:: Hand Not Detected
+178	:: LED
+178	:: LED
+252	:: Hand Not Detected
+178	:: LED
+178	:: LED
+251	:: Hand Not Detected
+178	:: LED
+178	:: LED
+252	:: Hand Not Detected
+178	:: LED
+178	:: LED
+252	:: Hand Not Detected
+178	:: LED
+178	:: LED
+250	:: Hand Not Detected
+178	:: LED
+181	:: LED
+251	:: Hand Not Detected
+181	:: LED
+181	:: LED
+252	:: Hand Not Detected
+181	:: LED
+184	:: LED
+251	:: Hand Not Detected
+184	:: LED
+184	:: LED
+251	:: Hand Not Detected
+184	:: LED
+184	:: LED
+249	:: Hand Not Detected
+184	:: LED
+184	:: LED
+250	:: Hand Not Detected
+184	:: LED
+188	:: LED
+253	:: Hand Not Detected
+188	:: LED
+188	:: LED
+253	:: Hand Not Detected
+188	:: LED
+188	:: LED
+250	:: Hand Not Detected
+188	:: LED
+188	:: LED
+252	:: Hand Not Detected
+188	:: LED
+190	:: LED
+252	:: Hand Not Detected
+190	:: LED
+190	:: LED
+253	:: Hand Not Detected
+193	:: LED
+193	:: LED
+252	:: Hand Not Detected
+193	:: LED
+193	:: LED
+253	:: Hand Not Detected
+192	:: LED
+192	:: LED
+252	:: Hand Not Detected
+192	:: LED
+192	:: LED
+253	:: Hand Not Detected
+196	:: LED
+196	:: LED
+250	:: Hand Not Detected
+196	:: LED
+196	:: LED
+252	:: Hand Not Detected
+200	:: LED
+200	:: LED
+250	:: Hand Not Detected
+200	:: LED
+200	:: LED
+252	:: Hand Not Detected
+200	:: LED
+200	:: LED
+251	:: Hand Not Detected
+200	:: LED
+200	:: LED
+249	:: Hand Not Detected
+206	:: LED
+206	:: LED
+250	:: Hand Not Detected
+206	:: LED
+206	:: LED
+251	:: Hand Not Detected
+206	:: LED
+206	:: LED
+252	:: Hand Not Detected
+206	:: LED
+206	:: LED
+250	:: Hand Not Detected
+211	:: LED
+211	:: LED
+250	:: Hand Not Detected
+211	:: LED
+211	:: LED
+252	:: Hand Not Detected
+216	:: LED
+216	:: LED
+252	:: Hand Not Detected
+216	:: LED
+216	:: LED
+251	:: Hand Not Detected
+218	:: LED
+218	:: LED
+252	:: Hand Not Detected
+218	:: LED
+218	:: LED
+250	:: Hand Not Detected
+222	:: LED
+222	:: LED
+252	:: Hand Not Detected
+222	:: LED
+222	:: LED
+251	:: Hand Not Detected
+225	:: LED
+225	:: LED
+251	:: Hand Not Detected
+225	:: LED
+226	:: LED
+250	:: Hand Not Detected
+226	:: LED
+226	:: LED
+251	:: Hand Not Detected
+226	:: LED
+231	:: LED
+252	:: Hand Not Detected
+231	:: LED
+231	:: LED
+252	:: Hand Not Detected
+231	:: LED
+231	:: LED
+251	:: Hand Not Detected
+231	:: LED
+231	:: LED
+251	:: Hand Not Detected
+231	:: LED
+234	:: LED
+250	:: Hand Not Detected
+234	:: LED
+234	:: LED
+252	:: Hand Not Detected
+234	:: LED
+237	:: LED
+250	:: Hand Not Detected
+237	:: LED
+237	:: LED
+248	:: Hand Not Detected
+237	:: LED
+235	:: LED
+251	:: Hand Not Detected
+235	:: LED
+235	:: LED
+249	:: Hand Not Detected
+235	:: LED
+239	:: LED
+251	:: Hand Not Detected
+239	:: LED
+239	:: LED
+251	:: Hand Not Detected
+239	:: LED
+242	:: LED
+250	:: Hand Not Detected
+242	:: LED
+242	:: LED
+252	:: Hand Not Detected
+242	:: LED
+240	:: LED
+249	:: Hand Not Detected
+240	:: LED
+240	:: LED
+248	:: Hand Not Detected
+240	:: LED
+243	:: LED
+251	:: Hand Not Detected
+243	:: LED
+243	:: LED
+249	:: Hand Not Detected
+243	:: LED
+240	:: LED
+251	:: Hand Not Detected
+240	:: LED
+240	:: LED
+249	:: Hand Not Detected
+245	:: LED
+245	:: LED
+251	:: Hand Not Detected
+245	:: LED
+245	:: LED
+249	:: Hand Not Detected
+247	:: LED
+247	:: LED
+251	:: Hand Not Detected
+247	:: LED
+247	:: LED
+247	:: Hand Not Detected
+246	:: LED
+246	:: LED
+249	:: Hand Not Detected
+246	:: LED
+246	:: LED
+248	:: Hand Not Detected
+249	:: LED
+249	:: LED
+250	:: Hand Not Detected
+249	:: LED
+249	:: LED
+249	:: Hand Not Detected
+252	:: LED
+252	:: LED
+249	:: Hand Not Detected
+252	:: LED
+252	:: LED
+249	:: Hand Not Detected
+250	:: LED
+250	:: LED
+248	:: Hand Not Detected
+250	:: LED
+250	:: LED
+251	:: Hand Not Detected
+253	:: LED
+253	:: LED
+249	:: Hand Not Detected
+253	:: LED
+253	:: LED
+248	:: Hand Not Detected
+252	:: LED
+252	:: LED
+250	:: Hand Not Detected
+252	:: LED
+252	:: LED
+247	:: Hand Not Detected
+253	:: LED
+253	:: LED
+247	:: Hand Not Detected
+253	:: LED
+253	:: LED
+248	:: Hand Not Detected
+256	:: LED
+256	:: LED
+246	:: Hand Not Detected
+256	:: LED
+256	:: LED
+248	:: Hand Not Detected
+255	:: LED
+255	:: LED
+247	:: Hand Not Detected
+255	:: LED
+257	:: LED
+247	:: Hand Not Detected
+257	:: LED
+257	:: LED
+247	:: Hand Not Detected
+257	:: LED
+259	:: LED
+248	:: Hand Not Detected
+259	:: LED
+259	:: LED
+249	:: Hand Not Detected
+259	:: LED
+258	:: LED
+248	:: Hand Not Detected
+258	:: LED
+258	:: LED
+248	:: Hand Not Detected
+258	:: LED
+260	:: LED
+245	:: Hand Not Detected
+260	:: LED
+260	:: LED
+247	:: Hand Not Detected
+260	:: LED
+259	:: LED
+248	:: Hand Not Detected
+259	:: LED
+259	:: LED
+246	:: Hand Not Detected
+259	:: LED
+262	:: LED
+247	:: Hand Not Detected
+262	:: LED
+262	:: LED
+245	:: Hand Not Detected
+262	:: LED
+262	:: LED
+248	:: Hand Not Detected
+262	:: LED
+262	:: LED
+244	:: Hand Not Detected
+262	:: LED
+259	:: LED
+247	:: Hand Not Detected
+259	:: LED
+259	:: LED
+246	:: Hand Not Detected
+259	:: LED
+261	:: LED
+245	:: Hand Not Detected
+261	:: LED
+261	:: LED
+247	:: Hand Not Detected
+261	:: LED
+262	:: LED
+245	:: Hand Not Detected
+262	:: LED
+262	:: LED
+246	:: Hand Not Detected
+262	:: LED
+258	:: LED
+247	:: Hand Not Detected
+258	:: LED
+258	:: LED
+246	:: Hand Not Detected
+259	:: LED
+259	:: LED
+245	:: Hand Not Detected
+259	:: LED
+259	:: LED
+247	:: Hand Not Detected
+253	:: LED
+253	:: LED
+246	:: Hand Not Detected
+253	:: LED
+253	:: LED
+244	:: Hand Not Detected
+257	:: LED
+257	:: LED
+245	:: Hand Not Detected
+257	:: LED
+257	:: LED
+247	:: Hand Not Detected
+258	:: LED
+258	:: LED
+244	:: Hand Not Detected
+258	:: LED
+258	:: LED
+245	:: Hand Not Detected
+252	:: LED
+252	:: LED
+243	:: Hand Not Detected
+252	:: LED
+252	:: LED
+244	:: Hand Not Detected
+252	:: LED
+252	:: LED
+243	:: Hand Not Detected
+252	:: LED
+252	:: LED
+245	:: Hand Not Detected
+255	:: LED
+255	:: LED
+243	:: Hand Not Detected
+255	:: LED
+255	:: LED
+246	:: Hand Not Detected
+249	:: LED
+249	:: LED
+243	:: Hand Not Detected
+249	:: LED
+249	:: LED
+242	:: Hand Not Detected
+250	:: LED
+250	:: LED
+242	:: Hand Not Detected
+250	:: LED
+250	:: LED
+243	:: Hand Not Detected
+245	:: LED
+245	:: LED
+243	:: Hand Not Detected
+245	:: LED
+245	:: LED
+243	:: Hand Not Detected
+247	:: LED
+247	:: LED
+241	:: Hand Not Detected
+247	:: LED
+247	:: LED
+243	:: Hand Not Detected
+249	:: LED
+249	:: LED
+243	:: Hand Not Detected
+249	:: LED
+244	:: LED
+243	:: Hand Not Detected
+244	:: LED
+244	:: LED
+242	:: Hand Not Detected
+244	:: LED
+245	:: LED
+240	:: Hand Not Detected
+245	:: LED
+245	:: LED
+241	:: Hand Not Detected
+245	:: LED
+245	:: LED
+241	:: Hand Not Detected
+245	:: LED
+245	:: LED
+241	:: Hand Not Detected
+245	:: LED
+240	:: LED
+242	:: Hand Not Detected
+240	:: LED
+240	:: LED
+241	:: Hand Not Detected
+240	:: LED
+240	:: LED
+241	:: Hand Not Detected
+240	:: LED
+240	:: LED
+240	:: Hand Not Detected
+240	:: LED
+236	:: LED
+240	:: Hand Not Detected
+236	:: LED
+236	:: LED
+241	:: Hand Not Detected
+236	:: LED
+238	:: LED
+241	:: Hand Not Detected
+238	:: LED
+238	:: LED
+241	:: Hand Not Detected
+238	:: LED
+239	:: LED
+241	:: Hand Not Detected
+239	:: LED
+239	:: LED
+239	:: Hand Not Detected
+239	:: LED
+233	:: LED
+239	:: Hand Not Detected
+233	:: LED
+233	:: LED
+237	:: Hand Not Detected
+233	:: LED
+235	:: LED
+239	:: Hand Not Detected
+235	:: LED
+235	:: LED
+239	:: Hand Not Detected
+235	:: LED
+235	:: LED
+238	:: Hand Not Detected
+235	:: LED
+235	:: LED
+238	:: Hand Not Detected
+230	:: LED
+230	:: LED
+240	:: Hand Not Detected
+230	:: LED
+230	:: LED
+240	:: Hand Not Detected
+228	:: LED
+228	:: LED
+239	:: Hand Not Detected
+228	:: LED
+228	:: LED
+236	:: Hand Not Detected
+222	:: LED
+222	:: LED
+239	:: Hand Not Detected
+222	:: LED
+222	:: LED
+238	:: Hand Not Detected
+223	:: LED
+223	:: LED
+239	:: Hand Not Detected
+223	:: LED
+223	:: LED
+237	:: Hand Not Detected
+225	:: LED
+225	:: LED
+239	:: Hand Not Detected
+225	:: LED
+225	:: LED
+235	:: Hand Not Detected
+217	:: LED
+217	:: LED
+234	:: Hand Not Detected
+217	:: LED
+217	:: LED
+235	:: Hand Not Detected
+218	:: LED
+218	:: LED
+235	:: Hand Not Detected
+218	:: LED
+218	:: LED
+234	:: Hand Not Detected
+219	:: LED
+219	:: LED
+236	:: Hand Not Detected
+219	:: LED
+219	:: LED
+235	:: Hand Not Detected
+210	:: LED
+210	:: LED
+235	:: Hand Not Detected
+210	:: LED
+210	:: LED
+236	:: Hand Not Detected
+210	:: LED
+210	:: LED
+234	:: Hand Not Detected
+210	:: LED
+210	:: LED
+235	:: Hand Not Detected
+200	:: LED
+200	:: LED
+234	:: Hand Not Detected
+200	:: LED
+200	:: LED
+235	:: Hand Not Detected
+200	:: LED
+200	:: LED
+235	:: Hand Not Detected
+200	:: LED
+203	:: LED
+234	:: Hand Not Detected
+203	:: LED
+203	:: LED
+235	:: Hand Not Detected
+203	:: LED
+193	:: LED
+235	:: Hand Not Detected
+193	:: LED
+193	:: LED
+236	:: Hand Not Detected
+193	:: LED
+195	:: LED
+232	:: Hand Not Detected
+195	:: LED
+195	:: LED
+236	:: Hand Not Detected
+195	:: LED
+195	:: LED
+234	:: Hand Not Detected
+195	:: LED
+195	:: LED
+234	:: Hand Not Detected
+195	:: LED
+186	:: LED
+233	:: Hand Not Detected
+186	:: LED
+186	:: LED
+232	:: Hand Not Detected
+186	:: LED
+188	:: LED
+232	:: Hand Not Detected
+188	:: LED
+188	:: LED
+232	:: Hand Not Detected
+188	:: LED
+179	:: LED
+233	:: Hand Not Detected
+179	:: LED
+179	:: LED
+232	:: Hand Not Detected
+179	:: LED
+180	:: LED
+232	:: Hand Not Detected
+180	:: LED
+180	:: LED
+229	:: Hand Not Detected
+180	:: LED
+179	:: LED
+233	:: Hand Not Detected
+179	:: LED
+179	:: LED
+233	:: Hand Not Detected
+179	:: LED
+170	:: LED
+233	:: Hand Not Detected
+170	:: LED
+170	:: LED
+232	:: Hand Not Detected
+170	:: LED
+170	:: LED
+234	:: Hand Not Detected
+170	:: LED
+170	:: LED
+229	:: Hand Not Detected
+171	:: LED
+171	:: LED
+231	:: Hand Not Detected
+171	:: LED
+171	:: LED
+231	:: Hand Not Detected
+164	:: LED
+164	:: LED
+230	:: Hand Not Detected
+164	:: LED
+164	:: LED
+231	:: Hand Not Detected
+165	:: LED
+165	:: LED
+231	:: Hand Not Detected
+165	:: LED
+165	:: LED
+231	:: Hand Not Detected
+164	:: LED
+164	:: LED
+228	:: Hand Not Detected
+164	:: LED
+164	:: LED
+232	:: Hand Not Detected
+156	:: LED
+156	:: LED
+232	:: Hand Not Detected
+156	:: LED
+156	:: LED
+230	:: Hand Not Detected
+157	:: LED
+157	:: LED
+230	:: Hand Not Detected
+157	:: LED
+157	:: LED
+228	:: Hand Not Detected
+150	:: LED
+150	:: LED
+230	:: Hand Not Detected
+150	:: LED
+150	:: LED
+229	:: Hand Not Detected
+146	:: LED
+146	:: LED
+231	:: Hand Not Detected
+146	:: LED
+146	:: LED
+231	:: Hand Not Detected
+149	:: LED
+149	:: LED
+229	:: Hand Not Detected
+149	:: LED
+149	:: LED
+230	:: Hand Not Detected
+141	:: LED
+141	:: LED
+228	:: Hand Not Detected
+141	:: LED
+141	:: LED
+229	:: Hand Not Detected
+142	:: LED
+142	:: LED
+229	:: Hand Not Detected
+142	:: LED
+141	:: LED
+231	:: Hand Not Detected
+141	:: LED
+141	:: LED
+229	:: Hand Not Detected
+141	:: LED
+132	:: LED
+230	:: Hand Not Detected
+132	:: LED
+132	:: LED
+230	:: Hand Not Detected
+132	:: LED
+135	:: LED
+229	:: Hand Not Detected
+135	:: LED
+135	:: LED
+230	:: Hand Not Detected
+135	:: LED
+125	:: LED
+228	:: Hand Not Detected
+125	:: LED
+125	:: LED
+228	:: Hand Not Detected
+125	:: LED
+125	:: LED
+228	:: Hand Not Detected
+125	:: LED
+125	:: LED
+231	:: Hand Not Detected
+125	:: LED
+125	:: LED
+230	:: Hand Not Detected
+125	:: LED
+125	:: LED
+228	:: Hand Not Detected
+125	:: LED
+116	:: LED
+228	:: Hand Not Detected
+116	:: LED
+116	:: LED
+227	:: Hand Not Detected
+116	:: LED
+117	:: LED
+228	:: Hand Not Detected
+117	:: LED
+117	:: LED
+227	:: Hand Not Detected
+117	:: LED
+117	:: LED
+228	:: Hand Not Detected
+117	:: LED
+117	:: LED
+229	:: Hand Not Detected
+117	:: LED
+110	:: LED
+227	:: Hand Not Detected
+110	:: LED
+110	:: LED
+229	:: Hand Not Detected
+110	:: LED
+111	:: LED
+228	:: Hand Not Detected
+111	:: LED
+111	:: LED
+226	:: Hand Not Detected
+101	:: LED
+101	:: LED
+227	:: Hand Not Detected
+101	:: LED
+101	:: LED
+228	:: Hand Not Detected
+101	:: LED
+101	:: LED
+226	:: Hand Not Detected
+101	:: LED
+101	:: LED
+226	:: Hand Not Detected
+103	:: LED
+103	:: LED
+229	:: Hand Not Detected
+103	:: LED
+103	:: LED
+227	:: Hand Not Detected
+93	:: LED
+93	:: LED
+226	:: Hand Not Detected
+93	:: LED
+93	:: LED
+227	:: Hand Not Detected
+93	:: LED
+93	:: LED
+226	:: Hand Not Detected
+93	:: LED
+93	:: LED
+226	:: Hand Not Detected
+93	:: LED
+93	:: LED
+226	:: Hand Not Detected
+93	:: LED
+93	:: LED
+227	:: Hand Not Detected
+86	:: LED
+86	:: LED
+226	:: Hand Not Detected
+86	:: LED
+86	:: LED
+226	:: Hand Not Detected
+87	:: LED
+87	:: LED
+225	:: Hand Not Detected
+87	:: LED
+87	:: LED
+223	:: Hand Not Detected
+77	:: LED
+77	:: LED
+226	:: Hand Not Detected
+77	:: LED
+77	:: LED
+227	:: Hand Not Detected
+77	:: LED
+77	:: LED
+226	:: Hand Not Detected
+77	:: LED
+77	:: LED
+225	:: Hand Not Detected
+79	:: LED
+79	:: LED
+225	:: Hand Not Detected
+79	:: LED
+72	:: LED
+227	:: Hand Not Detected
+72	:: LED
+72	:: LED
+227	:: Hand Not Detected
+72	:: LED
+73	:: LED
+225	:: Hand Not Detected
+73	:: LED
+73	:: LED
+226	:: Hand Not Detected
+73	:: LED
+72	:: LED
+226	:: Hand Not Detected
+72	:: LED
+72	:: LED
+226	:: Hand Not Detected
+72	:: LED
+64	:: LED
+227	:: Hand Not Detected
+64	:: LED
+64	:: LED
+224	:: Hand Not Detected
+64	:: LED
+65	:: LED
+224	:: Hand Not Detected
+65	:: LED
+65	:: LED
+223	:: Hand Not Detected
+65	:: LED
+57	:: LED
+228	:: Hand Not Detected
+57	:: LED
+57	:: LED
+224	:: Hand Not Detected
+57	:: LED
+58	:: LED
+226	:: Hand Not Detected
+58	:: LED
+58	:: LED
+223	:: Hand Not Detected
+58	:: LED
+58	:: LED
+225	:: Hand Not Detected
+58	:: LED
+58	:: LED
+226	:: Hand Not Detected
+58	:: LED
+49	:: LED
+225	:: Hand Not Detected
+49	:: LED
+49	:: LED
+222	:: Hand Not Detected
+49	:: LED
+50	:: LED
+225	:: Hand Not Detected
+50	:: LED
+50	:: LED
+226	:: Hand Not Detected
+50	:: LED
+52	:: LED
+224	:: Hand Not Detected
+52	:: LED
+52	:: LED
+223	:: Hand Not Detected
+44	:: LED
+44	:: LED
+223	:: Hand Not Detected
+44	:: LED
+44	:: LED
+224	:: Hand Not Detected
+43	:: LED
+43	:: LED
+226	:: Hand Not Detected
+43	:: LED
+43	:: LED
+226	:: Hand Not Detected
+34	:: LED
+34	:: LED
+227	:: Hand Not Detected
+34	:: LED
+34	:: LED
+225	:: Hand Not Detected
+35	:: LED
+35	:: LED
+227	:: Hand Not Detected
+35	:: LED
+35	:: LED
+226	:: Hand Not Detected
+35	:: LED
+35	:: LED
+226	:: Hand Not Detected
+35	:: LED
+35	:: LED
+223	:: Hand Not Detected
+32	:: LED
+32	:: LED
+224	:: Hand Not Detected
+32	:: LED
+32	:: LED
+225	:: Hand Not Detected
+36	:: LED
+36	:: LED
+225	:: Hand Not Detected
+36	:: LED
+36	:: LED
+225	:: Hand Not Detected
+37	:: LED
+37	:: LED
+223	:: Hand Not Detected
+37	:: LED
+37	:: LED
+225	:: Hand Not Detected
+26	:: LED
+26	:: LED
+225	:: Hand Not Detected
+26	:: LED
+26	:: LED
+225	:: Hand Not Detected
+28	:: LED
+28	:: LED
+225	:: Hand Not Detected
+28	:: LED
+28	:: LED
+225	:: Hand Not Detected
+24	:: LED
+24	:: LED
+224	:: Hand Not Detected
+24	:: LED
+24	:: LED
+225	:: Hand Not Detected
+24	:: LED
+24	:: LED
+224	:: Hand Not Detected
+24	:: LED
+23	:: LED
+221	:: Hand Not Detected
+23	:: LED
+23	:: LED
+225	:: Hand Not Detected
+23	:: LED
+18	:: LED
+224	:: Hand Not Detected
+18	:: LED
+18	:: LED
+224	:: Hand Not Detected
+18	:: LED
+24	:: LED
+224	:: Hand Not Detected
+24	:: LED
+24	:: LED
+224	:: Hand Not Detected
+24	:: LED
+24	:: LED
+223	:: Hand Not Detected
+24	:: LED
+24	:: LED
+223	:: Hand Not Detected
+24	:: LED
+15	:: LED
+226	:: Hand Not Detected
+15	:: LED
+15	:: LED
+225	:: Hand Not Detected
+15	:: LED
+18	:: LED
+225	:: Hand Not Detected
+18	:: LED
+18	:: LED
+222	:: Hand Not Detected
+18	:: LED
+8	:: LED
+224	:: Hand Not Detected
+8	:: LED
+8	:: LED
+222	:: Hand Not Detected
+8	:: LED
+17	:: LED
+220	:: Hand Not Detected
+17	:: LED
+17	:: LED
+222	:: Hand Not Detected
+17	:: LED
+16	:: LED
+222	:: Hand Not Detected
+16	:: LED
+16	:: LED
+220	:: Hand Not Detected
+16	:: LED
+6	:: LED
+223	:: Hand Not Detected
+6	:: LED
+6	:: LED
+222	:: Hand Not Detected
+6	:: LED
+8	:: LED
+222	:: Hand Not Detected
+8	:: LED
+8	:: LED
+223	:: Hand Not Detected
+9	:: LED
+9	:: LED
+222	:: Hand Not Detected
+9	:: LED
+9	:: LED
+220	:: Hand Not Detected
+5	:: LED
+5	:: LED
+221	:: Hand Not Detected
+5	:: LED
+5	:: LED
+223	:: Hand Not Detected
+6	:: LED
+6	:: LED
+221	:: Hand Not Detected
+6	:: LED
+6	:: LED
+221	:: Hand Not Detected
+-1	:: LED
+-1	:: LED
+220	:: Hand Not Detected
+-1	:: LED
+-1	:: LED
+222	:: Hand Not Detected
+1	:: LED
+1	:: LED
+221	:: Hand Not Detected
+1	:: LED
+1	:: LED
+219	:: Hand Not Detected
+6	:: LED
+6	:: LED
+219	:: Hand Not Detected
+6	:: LED
+6	:: LED
+220	:: Hand Not Detected
+-2	:: LED
+-2	:: LED
+220	:: Hand Not Detected
+-2	:: LED
+-2	:: LED
+220	:: Hand Not Detected
+-3	:: LED
+-3	:: LED
+219	:: Hand Not Detected
+-3	:: LED
+-3	:: LED
+220	:: Hand Not Detected
+-2	:: LED
+-2	:: LED
+218	:: Hand Not Detected
+-2	:: LED
+-2	:: LED
+221	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+219	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+218	:: Hand Not Detected
+-3	:: LED
+-3	:: LED
+220	:: Hand Not Detected
+-3	:: LED
+-11	:: LED
+218	:: Hand Not Detected
+-11	:: LED
+-11	:: LED
+218	:: Hand Not Detected
+-11	:: LED
+-10	:: LED
+218	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+219	:: Hand Not Detected
+-10	:: LED
+-9	:: LED
+217	:: Hand Not Detected
+-9	:: LED
+-9	:: LED
+216	:: Hand Not Detected
+-9	:: LED
+-12	:: LED
+218	:: Hand Not Detected
+-12	:: LED
+-12	:: LED
+217	:: Hand Not Detected
+-12	:: LED
+-12	:: LED
+218	:: Hand Not Detected
+-12	:: LED
+-12	:: LED
+217	:: Hand Not Detected
+-12	:: LED
+-12	:: LED
+218	:: Hand Not Detected
+-12	:: LED
+-12	:: LED
+218	:: Hand Not Detected
+-12	:: LED
+-10	:: LED
+216	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+218	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+218	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+218	:: Hand Not Detected
+-10	:: LED
+-4	:: LED
+216	:: Hand Not Detected
+-4	:: LED
+-4	:: LED
+219	:: Hand Not Detected
+-4	:: LED
+-2	:: LED
+218	:: Hand Not Detected
+-2	:: LED
+-2	:: LED
+216	:: Hand Not Detected
+-2	:: LED
+-1	:: LED
+216	:: Hand Not Detected
+-1	:: LED
+-1	:: LED
+214	:: Hand Not Detected
+-1	:: LED
+-1	:: LED
+217	:: Hand Not Detected
+-1	:: LED
+-1	:: LED
+215	:: Hand Not Detected
+2	:: LED
+2	:: LED
+215	:: Hand Not Detected
+2	:: LED
+2	:: LED
+216	:: Hand Not Detected
+7	:: LED
+7	:: LED
+215	:: Hand Not Detected
+7	:: LED
+7	:: LED
+214	:: Hand Not Detected
+8	:: LED
+8	:: LED
+215	:: Hand Not Detected
+8	:: LED
+8	:: LED
+214	:: Hand Not Detected
+7	:: LED
+7	:: LED
+215	:: Hand Not Detected
+7	:: LED
+7	:: LED
+214	:: Hand Not Detected
+8	:: LED
+8	:: LED
+214	:: Hand Not Detected
+8	:: LED
+8	:: LED
+214	:: Hand Not Detected
+15	:: LED
+15	:: LED
+214	:: Hand Not Detected
+15	:: LED
+15	:: LED
+214	:: Hand Not Detected
+16	:: LED
+16	:: LED
+215	:: Hand Not Detected
+16	:: LED
+16	:: LED
+216	:: Hand Not Detected
+17	:: LED
+17	:: LED
+212	:: Hand Not Detected
+17	:: LED
+17	:: LED
+214	:: Hand Not Detected
+19	:: LED
+19	:: LED
+215	:: Hand Not Detected
+19	:: LED
+19	:: LED
+215	:: Hand Not Detected
+20	:: LED
+20	:: LED
+214	:: Hand Not Detected
+20	:: LED
+20	:: LED
+213	:: Hand Not Detected
+26	:: LED
+26	:: LED
+213	:: Hand Not Detected
+26	:: LED
+25	:: LED
+214	:: Hand Not Detected
+25	:: LED
+25	:: LED
+213	:: Hand Not Detected
+25	:: LED
+25	:: LED
+214	:: Hand Not Detected
+25	:: LED
+25	:: LED
+214	:: Hand Not Detected
+25	:: LED
+26	:: LED
+215	:: Hand Not Detected
+26	:: LED
+26	:: LED
+213	:: Hand Not Detected
+26	:: LED
+34	:: LED
+216	:: Hand Not Detected
+34	:: LED
+34	:: LED
+213	:: Hand Not Detected
+34	:: LED
+34	:: LED
+211	:: Hand Not Detected
+34	:: LED
+34	:: LED
+213	:: Hand Not Detected
+34	:: LED
+36	:: LED
+212	:: Hand Not Detected
+36	:: LED
+36	:: LED
+211	:: Hand Not Detected
+36	:: LED
+37	:: LED
+213	:: Hand Not Detected
+37	:: LED
+37	:: LED
+211	:: Hand Not Detected
+37	:: LED
+37	:: LED
+212	:: Hand Not Detected
+37	:: LED
+37	:: LED
+213	:: Hand Not Detected
+37	:: LED
+44	:: LED
+214	:: Hand Not Detected
+44	:: LED
+44	:: LED
+212	:: Hand Not Detected
+44	:: LED
+44	:: LED
+211	:: Hand Not Detected
+44	:: LED
+44	:: LED
+211	:: Hand Not Detected
+44	:: LED
+47	:: LED
+212	:: Hand Not Detected
+47	:: LED
+47	:: LED
+211	:: Hand Not Detected
+47	:: LED
+47	:: LED
+212	:: Hand Not Detected
+47	:: LED
+47	:: LED
+210	:: Hand Not Detected
+47	:: LED
+47	:: LED
+209	:: Hand Not Detected
+47	:: LED
+47	:: LED
+209	:: Hand Not Detected
+54	:: LED
+54	:: LED
+211	:: Hand Not Detected
+54	:: LED
+54	:: LED
+209	:: Hand Not Detected
+55	:: LED
+55	:: LED
+211	:: Hand Not Detected
+55	:: LED
+55	:: LED
+210	:: Hand Not Detected
+56	:: LED
+56	:: LED
+211	:: Hand Not Detected
+56	:: LED
+56	:: LED
+209	:: Hand Not Detected
+58	:: LED
+58	:: LED
+209	:: Hand Not Detected
+58	:: LED
+58	:: LED
+209	:: Hand Not Detected
+64	:: LED
+64	:: LED
+208	:: Hand Not Detected
+64	:: LED
+64	:: LED
+210	:: Hand Not Detected
+65	:: LED
+65	:: LED
+209	:: Hand Not Detected
+65	:: LED
+65	:: LED
+208	:: Hand Not Detected
+68	:: LED
+68	:: LED
+207	:: Hand Not Detected
+68	:: LED
+68	:: LED
+208	:: Hand Not Detected
+68	:: LED
+68	:: LED
+209	:: Hand Not Detected
+68	:: LED
+68	:: LED
+208	:: Hand Not Detected
+66	:: LED
+66	:: LED
+210	:: Hand Not Detected
+66	:: LED
+72	:: LED
+208	:: Hand Not Detected
+72	:: LED
+72	:: LED
+207	:: Hand Not Detected
+72	:: LED
+75	:: LED
+208	:: Hand Not Detected
+75	:: LED
+75	:: LED
+209	:: Hand Not Detected
+75	:: LED
+76	:: LED
+207	:: Hand Not Detected
+76	:: LED
+76	:: LED
+206	:: Hand Not Detected
+76	:: LED
+76	:: LED
+208	:: Hand Not Detected
+76	:: LED
+76	:: LED
+207	:: Hand Not Detected
+76	:: LED
+83	:: LED
+209	:: Hand Not Detected
+83	:: LED
+83	:: LED
+208	:: Hand Not Detected
+83	:: LED
+84	:: LED
+208	:: Hand Not Detected
+84	:: LED
+84	:: LED
+206	:: Hand Not Detected
+84	:: LED
+85	:: LED
+207	:: Hand Not Detected
+85	:: LED
+85	:: LED
+207	:: Hand Not Detected
+85	:: LED
+85	:: LED
+208	:: Hand Not Detected
+85	:: LED
+85	:: LED
+206	:: Hand Not Detected
+85	:: LED
+86	:: LED
+206	:: Hand Not Detected
+86	:: LED
+86	:: LED
+206	:: Hand Not Detected
+86	:: LED
+92	:: LED
+205	:: Hand Not Detected
+92	:: LED
+92	:: LED
+205	:: Hand Not Detected
+92	:: LED
+93	:: LED
+204	:: Hand Not Detected
+93	:: LED
+93	:: LED
+205	:: Hand Not Detected
+92	:: LED
+92	:: LED
+207	:: Hand Not Detected
+92	:: LED
+92	:: LED
+205	:: Hand Not Detected
+95	:: LED
+95	:: LED
+206	:: Hand Not Detected
+95	:: LED
+95	:: LED
+203	:: Hand Not Detected
+96	:: LED
+96	:: LED
+204	:: Hand Not Detected
+96	:: LED
+96	:: LED
+203	:: Hand Not Detected
+102	:: LED
+102	:: LED
+206	:: Hand Not Detected
+102	:: LED
+102	:: LED
+205	:: Hand Not Detected
+104	:: LED
+104	:: LED
+203	:: Hand Not Detected
+104	:: LED
+104	:: LED
+206	:: Hand Not Detected
+105	:: LED
+105	:: LED
+203	:: Hand Not Detected
+105	:: LED
+105	:: LED
+204	:: Hand Not Detected
+106	:: LED
+106	:: LED
+202	:: Hand Not Detected
+106	:: LED
+106	:: LED
+203	:: Hand Not Detected
+112	:: LED
+112	:: LED
+202	:: Hand Not Detected
+112	:: LED
+112	:: LED
+202	:: Hand Not Detected
+123	:: LED
+123	:: LED
+204	:: Hand Not Detected
+128	:: LED
+128	:: LED
+204	:: Hand Not Detected
+128	:: LED
+128	:: LED
+202	:: Hand Not Detected
+135	:: LED
+135	:: LED
+204	:: Hand Not Detected
+135	:: LED
+135	:: LED
+202	:: Hand Not Detected
+136	:: LED
+136	:: LED
+204	:: Hand Not Detected
+136	:: LED
+136	:: LED
+200	:: Hand Not Detected
+141	:: LED
+141	:: LED
+202	:: Hand Not Detected
+141	:: LED
+141	:: LED
+204	:: Hand Not Detected
+142	:: LED
+142	:: LED
+202	:: Hand Not Detected
+142	:: LED
+142	:: LED
+201	:: Hand Not Detected
+148	:: LED
+148	:: LED
+201	:: Hand Not Detected
+148	:: LED
+148	:: LED
+200	:: Hand Not Detected
+153	:: LED
+153	:: LED
+203	:: Hand Not Detected
+153	:: LED
+153	:: LED
+200	:: Hand Not Detected
+155	:: LED
+155	:: LED
+200	:: Hand Not Detected
+155	:: LED
+155	:: LED
+200	:: Hand Not Detected
+159	:: LED
+159	:: LED
+201	:: Hand Not Detected
+159	:: LED
+159	:: LED
+200	:: Hand Not Detected
+165	:: LED
+165	:: LED
+201	:: Hand Not Detected
+165	:: LED
+165	:: LED
+200	:: Hand Not Detected
+168	:: LED
+168	:: LED
+199	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+200	:: Hand Not Detected
+172	:: LED
+173	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+200	:: Hand Not Detected
+178	:: LED
+178	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+196	:: Hand    Detected
+0	:: LED
+0	:: LED
+199	:: Hand    Detected
+0	:: LED
+0	:: LED
+196	:: Hand    Detected
+0	:: LED
+0	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+196	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+196	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+196	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+191	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+190	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+191	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+190	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+190	:: Hand    Detected
+0	:: LED
+0	:: LED
+189	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+190	:: Hand    Detected
+0	:: LED
+0	:: LED
+190	:: Hand    Detected
+0	:: LED
+0	:: LED
+190	:: Hand    Detected
+0	:: LED
+0	:: LED
+190	:: Hand    Detected
+0	:: LED
+0	:: LED
+191	:: Hand    Detected
+0	:: LED
+0	:: LED
+189	:: Hand    Detected
+0	:: LED
+0	:: LED
+189	:: Hand    Detected
+0	:: LED
+0	:: LED
+190	:: Hand    Detected
+0	:: LED
+0	:: LED
+189	:: Hand    Detected
+0	:: LED
+0	:: LED
+189	:: Hand    Detected
+0	:: LED
+0	:: LED
+189	:: Hand    Detected
+0	:: LED
+0	:: LED
+190	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+187	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+186	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+186	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+185	:: Hand    Detected
+0	:: LED
+0	:: LED
+186	:: Hand    Detected
+0	:: LED
+0	:: LED
+187	:: Hand    Detected
+0	:: LED
+0	:: LED
+187	:: Hand    Detected
+0	:: LED
+0	:: LED
+184	:: Hand    Detected
+0	:: LED
+0	:: LED
+186	:: Hand    Detected
+0	:: LED
+0	:: LED
+186	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+185	:: Hand    Detected
+0	:: LED
+0	:: LED
+184	:: Hand    Detected
+0	:: LED
+0	:: LED
+184	:: Hand    Detected
+0	:: LED
+0	:: LED
+182	:: Hand    Detected
+0	:: LED
+0	:: LED
+184	:: Hand    Detected
+0	:: LED
+0	:: LED
+181	:: Hand    Detected
+0	:: LED
+0	:: LED
+183	:: Hand    Detected
+0	:: LED
+0	:: LED
+181	:: Hand    Detected
+0	:: LED
+0	:: LED
+183	:: Hand    Detected
+0	:: LED
+0	:: LED
+181	:: Hand    Detected
+0	:: LED
+0	:: LED
+180	:: Hand    Detected
+0	:: LED
+0	:: LED
+182	:: Hand    Detected
+0	:: LED
+0	:: LED
+180	:: Hand    Detected
+0	:: LED
+0	:: LED
+179	:: Hand    Detected
+0	:: LED
+0	:: LED
+180	:: Hand    Detected
+0	:: LED
+0	:: LED
+180	:: Hand    Detected
+0	:: LED
+0	:: LED
+176	:: Hand    Detected
+0	:: LED
+0	:: LED
+179	:: Hand    Detected
+0	:: LED
+0	:: LED
+179	:: Hand    Detected
+0	:: LED
+0	:: LED
+177	:: Hand    Detected
+0	:: LED
+0	:: LED
+177	:: Hand    Detected
+0	:: LED
+0	:: LED
+174	:: Hand    Detected
+0	:: LED
+0	:: LED
+175	:: Hand    Detected
+0	:: LED
+0	:: LED
+174	:: Hand    Detected
+0	:: LED
+0	:: LED
+177	:: Hand    Detected
+0	:: LED
+0	:: LED
+174	:: Hand    Detected
+0	:: LED
+0	:: LED
+176	:: Hand    Detected
+0	:: LED
+0	:: LED
+176	:: Hand    Detected
+0	:: LED
+0	:: LED
+175	:: Hand    Detected
+0	:: LED
+0	:: LED
+175	:: Hand    Detected
+0	:: LED
+0	:: LED
+175	:: Hand    Detected
+0	:: LED
+0	:: LED
+173	:: Hand    Detected
+0	:: LED
+0	:: LED
+174	:: Hand    Detected
+0	:: LED
+0	:: LED
+172	:: Hand    Detected
+0	:: LED
+0	:: LED
+175	:: Hand    Detected
+0	:: LED
+0	:: LED
+172	:: Hand    Detected
+0	:: LED
+0	:: LED
+170	:: Hand    Detected
+0	:: LED
+0	:: LED
+173	:: Hand    Detected
+0	:: LED
+0	:: LED
+175	:: Hand    Detected
+0	:: LED
+0	:: LED
+173	:: Hand    Detected
+0	:: LED
+0	:: LED
+171	:: Hand    Detected
+0	:: LED
+0	:: LED
+171	:: Hand    Detected
+0	:: LED
+0	:: LED
+173	:: Hand    Detected
+0	:: LED
+0	:: LED
+172	:: Hand    Detected
+0	:: LED
+0	:: LED
+172	:: Hand    Detected
+0	:: LED
+0	:: LED
+171	:: Hand    Detected
+0	:: LED
+0	:: LED
+169	:: Hand    Detected
+0	:: LED
+0	:: LED
+170	:: Hand    Detected
+0	:: LED
+0	:: LED
+170	:: Hand    Detected
+0	:: LED
+0	:: LED
+169	:: Hand    Detected
+0	:: LED
+0	:: LED
+169	:: Hand    Detected
+0	:: LED
+0	:: LED
+171	:: Hand    Detected
+0	:: LED
+0	:: LED
+169	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+169	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+166	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+169	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+170	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+170	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+166	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+164	:: Hand    Detected
+0	:: LED
+0	:: LED
+166	:: Hand    Detected
+0	:: LED
+0	:: LED
+161	:: Hand    Detected
+0	:: LED
+0	:: LED
+165	:: Hand    Detected
+0	:: LED
+0	:: LED
+162	:: Hand    Detected
+0	:: LED
+0	:: LED
+163	:: Hand    Detected
+0	:: LED
+0	:: LED
+162	:: Hand    Detected
+0	:: LED
+0	:: LED
+162	:: Hand    Detected
+0	:: LED
+0	:: LED
+161	:: Hand    Detected
+0	:: LED
+0	:: LED
+161	:: Hand    Detected
+0	:: LED
+0	:: LED
+162	:: Hand    Detected
+0	:: LED
+0	:: LED
+162	:: Hand    Detected
+0	:: LED
+0	:: LED
+160	:: Hand    Detected
+0	:: LED
+0	:: LED
+160	:: Hand    Detected
+0	:: LED
+0	:: LED
+160	:: Hand    Detected
+0	:: LED
+0	:: LED
+161	:: Hand    Detected
+0	:: LED
+0	:: LED
+159	:: Hand    Detected
+0	:: LED
+0	:: LED
+160	:: Hand    Detected
+0	:: LED
+0	:: LED
+158	:: Hand    Detected
+0	:: LED
+0	:: LED
+160	:: Hand    Detected
+0	:: LED
+0	:: LED
+158	:: Hand    Detected
+0	:: LED
+0	:: LED
+158	:: Hand    Detected
+0	:: LED
+0	:: LED
+157	:: Hand    Detected
+0	:: LED
+0	:: LED
+156	:: Hand    Detected
+0	:: LED
+0	:: LED
+159	:: Hand    Detected
+0	:: LED
+0	:: LED
+156	:: Hand    Detected
+0	:: LED
+0	:: LED
+157	:: Hand    Detected
+0	:: LED
+0	:: LED
+154	:: Hand    Detected
+0	:: LED
+0	:: LED
+155	:: Hand    Detected
+0	:: LED
+0	:: LED
+155	:: Hand    Detected
+0	:: LED
+0	:: LED
+155	:: Hand    Detected
+0	:: LED
+0	:: LED
+154	:: Hand    Detected
+0	:: LED
+0	:: LED
+153	:: Hand    Detected
+0	:: LED
+0	:: LED
+156	:: Hand    Detected
+0	:: LED
+0	:: LED
+151	:: Hand    Detected
+0	:: LED
+0	:: LED
+153	:: Hand    Detected
+0	:: LED
+0	:: LED
+154	:: Hand    Detected
+0	:: LED
+0	:: LED
+153	:: Hand    Detected
+0	:: LED
+0	:: LED
+153	:: Hand    Detected
+0	:: LED
+0	:: LED
+153	:: Hand    Detected
+0	:: LED
+0	:: LED
+153	:: Hand    Detected
+0	:: LED
+0	:: LED
+152	:: Hand    Detected
+0	:: LED
+0	:: LED
+152	:: Hand    Detected
+0	:: LED
+0	:: LED
+153	:: Hand    Detected
+0	:: LED
+0	:: LED
+150	:: Hand    Detected
+0	:: LED
+0	:: LED
+151	:: Hand    Detected
+0	:: LED
+0	:: LED
+151	:: Hand    Detected
+0	:: LED
+0	:: LED
+151	:: Hand    Detected
+0	:: LED
+0	:: LED
+150	:: Hand    Detected
+0	:: LED
+0	:: LED
+151	:: Hand    Detected
+0	:: LED
+0	:: LED
+149	:: Hand    Detected
+0	:: LED
+0	:: LED
+148	:: Hand    Detected
+0	:: LED
+0	:: LED
+149	:: Hand    Detected
+0	:: LED
+0	:: LED
+148	:: Hand    Detected
+0	:: LED
+0	:: LED
+147	:: Hand    Detected
+0	:: LED
+0	:: LED
+146	:: Hand    Detected
+0	:: LED
+0	:: LED
+145	:: Hand    Detected
+0	:: LED
+0	:: LED
+145	:: Hand    Detected
+0	:: LED
+0	:: LED
+144	:: Hand    Detected
+0	:: LED
+0	:: LED
+145	:: Hand    Detected
+0	:: LED
+0	:: LED
+140	:: Hand    Detected
+0	:: LED
+0	:: LED
+140	:: Hand    Detected
+0	:: LED
+0	:: LED
+143	:: Hand    Detected
+0	:: LED
+0	:: LED
+139	:: Hand    Detected
+0	:: LED
+0	:: LED
+141	:: Hand    Detected
+0	:: LED
+0	:: LED
+137	:: Hand    Detected
+0	:: LED
+0	:: LED
+138	:: Hand    Detected
+0	:: LED
+0	:: LED
+136	:: Hand    Detected
+0	:: LED
+0	:: LED
+134	:: Hand    Detected
+0	:: LED
+0	:: LED
+137	:: Hand    Detected
+0	:: LED
+0	:: LED
+134	:: Hand    Detected
+0	:: LED
+0	:: LED
+133	:: Hand    Detected
+0	:: LED
+0	:: LED
+133	:: Hand    Detected
+0	:: LED
+0	:: LED
+133	:: Hand    Detected
+0	:: LED
+0	:: LED
+132	:: Hand    Detected
+0	:: LED
+0	:: LED
+128	:: Hand    Detected
+0	:: LED
+0	:: LED
+129	:: Hand    Detected
+0	:: LED
+0	:: LED
+127	:: Hand    Detected
+0	:: LED
+0	:: LED
+127	:: Hand    Detected
+0	:: LED
+0	:: LED
+126	:: Hand    Detected
+0	:: LED
+0	:: LED
+126	:: Hand    Detected
+0	:: LED
+0	:: LED
+126	:: Hand    Detected
+0	:: LED
+0	:: LED
+127	:: Hand    Detected
+0	:: LED
+0	:: LED
+126	:: Hand    Detected
+0	:: LED
+0	:: LED
+125	:: Hand    Detected
+0	:: LED
+0	:: LED
+123	:: Hand    Detected
+0	:: LED
+0	:: LED
+123	:: Hand    Detected
+0	:: LED
+0	:: LED
+121	:: Hand    Detected
+0	:: LED
+0	:: LED
+123	:: Hand    Detected
+0	:: LED
+0	:: LED
+123	:: Hand    Detected
+0	:: LED
+0	:: LED
+119	:: Hand    Detected
+0	:: LED
+0	:: LED
+122	:: Hand    Detected
+0	:: LED
+0	:: LED
+120	:: Hand    Detected
+0	:: LED
+0	:: LED
+120	:: Hand    Detected
+0	:: LED
+0	:: LED
+118	:: Hand    Detected
+0	:: LED
+0	:: LED
+118	:: Hand    Detected
+0	:: LED
+0	:: LED
+118	:: Hand    Detected
+0	:: LED
+0	:: LED
+117	:: Hand    Detected
+0	:: LED
+0	:: LED
+118	:: Hand    Detected
+0	:: LED
+0	:: LED
+114	:: Hand    Detected
+0	:: LED
+0	:: LED
+114	:: Hand    Detected
+0	:: LED
+0	:: LED
+113	:: Hand    Detected
+0	:: LED
+0	:: LED
+113	:: Hand    Detected
+0	:: LED
+0	:: LED
+113	:: Hand    Detected
+0	:: LED
+0	:: LED
+115	:: Hand    Detected
+0	:: LED
+0	:: LED
+113	:: Hand    Detected
+0	:: LED
+0	:: LED
+111	:: Hand    Detected
+0	:: LED
+0	:: LED
+113	:: Hand    Detected
+0	:: LED
+0	:: LED
+112	:: Hand    Detected
+0	:: LED
+0	:: LED
+109	:: Hand    Detected
+0	:: LED
+0	:: LED
+109	:: Hand    Detected
+0	:: LED
+0	:: LED
+108	:: Hand    Detected
+0	:: LED
+0	:: LED
+110	:: Hand    Detected
+0	:: LED
+0	:: LED
+109	:: Hand    Detected
+0	:: LED
+0	:: LED
+106	:: Hand    Detected
+0	:: LED
+0	:: LED
+108	:: Hand    Detected
+0	:: LED
+0	:: LED
+106	:: Hand    Detected
+0	:: LED
+0	:: LED
+104	:: Hand    Detected
+0	:: LED
+0	:: LED
+106	:: Hand    Detected
+0	:: LED
+0	:: LED
+104	:: Hand    Detected
+0	:: LED
+0	:: LED
+105	:: Hand    Detected
+0	:: LED
+0	:: LED
+103	:: Hand    Detected
+0	:: LED
+0	:: LED
+104	:: Hand    Detected
+0	:: LED
+0	:: LED
+100	:: Hand    Detected
+0	:: LED
+0	:: LED
+101	:: Hand    Detected
+0	:: LED
+0	:: LED
+101	:: Hand    Detected
+0	:: LED
+0	:: LED
+98	:: Hand    Detected
+0	:: LED
+0	:: LED
+99	:: Hand    Detected
+0	:: LED
+0	:: LED
+99	:: Hand    Detected
+0	:: LED
+0	:: LED
+98	:: Hand    Detected
+0	:: LED
+0	:: LED
+97	:: Hand    Detected
+0	:: LED
+0	:: LED
+96	:: Hand    Detected
+0	:: LED
+0	:: LED
+95	:: Hand    Detected
+0	:: LED
+0	:: LED
+92	:: Hand    Detected
+0	:: LED
+0	:: LED
+93	:: Hand    Detected
+0	:: LED
+0	:: LED
+92	:: Hand    Detected
+0	:: LED
+0	:: LED
+93	:: Hand    Detected
+0	:: LED
+0	:: LED
+92	:: Hand    Detected
+0	:: LED
+0	:: LED
+92	:: Hand    Detected
+0	:: LED
+0	:: LED
+91	:: Hand    Detected
+0	:: LED
+0	:: LED
+89	:: Hand    Detected
+0	:: LED
+0	:: LED
+89	:: Hand    Detected
+0	:: LED
+0	:: LED
+86	:: Hand    Detected
+0	:: LED
+0	:: LED
+87	:: Hand    Detected
+0	:: LED
+0	:: LED
+86	:: Hand    Detected
+0	:: LED
+0	:: LED
+90	:: Hand    Detected
+0	:: LED
+0	:: LED
+87	:: Hand    Detected
+0	:: LED
+0	:: LED
+86	:: Hand    Detected
+0	:: LED
+0	:: LED
+84	:: Hand    Detected
+0	:: LED
+0	:: LED
+86	:: Hand    Detected
+0	:: LED
+0	:: LED
+85	:: Hand    Detected
+0	:: LED
+0	:: LED
+84	:: Hand    Detected
+0	:: LED
+0	:: LED
+86	:: Hand    Detected
+0	:: LED
+0	:: LED
+82	:: Hand    Detected
+0	:: LED
+0	:: LED
+83	:: Hand    Detected
+0	:: LED
+0	:: LED
+83	:: Hand    Detected
+0	:: LED
+0	:: LED
+81	:: Hand    Detected
+0	:: LED
+0	:: LED
+82	:: Hand    Detected
+0	:: LED
+0	:: LED
+81	:: Hand    Detected
+0	:: LED
+0	:: LED
+80	:: Hand    Detected
+0	:: LED
+0	:: LED
+81	:: Hand    Detected
+0	:: LED
+0	:: LED
+79	:: Hand    Detected
+0	:: LED
+0	:: LED
+78	:: Hand    Detected
+0	:: LED
+0	:: LED
+79	:: Hand    Detected
+0	:: LED
+0	:: LED
+76	:: Hand    Detected
+0	:: LED
+0	:: LED
+77	:: Hand    Detected
+0	:: LED
+0	:: LED
+77	:: Hand    Detected
+0	:: LED
+0	:: LED
+76	:: Hand    Detected
+0	:: LED
+0	:: LED
+76	:: Hand    Detected
+0	:: LED
+0	:: LED
+76	:: Hand    Detected
+0	:: LED
+0	:: LED
+75	:: Hand    Detected
+0	:: LED
+0	:: LED
+73	:: Hand    Detected
+0	:: LED
+0	:: LED
+73	:: Hand    Detected
+0	:: LED
+0	:: LED
+74	:: Hand    Detected
+0	:: LED
+0	:: LED
+74	:: Hand    Detected
+0	:: LED
+0	:: LED
+70	:: Hand    Detected
+0	:: LED
+0	:: LED
+68	:: Hand    Detected
+0	:: LED
+0	:: LED
+66	:: Hand    Detected
+0	:: LED
+0	:: LED
+67	:: Hand    Detected
+0	:: LED
+0	:: LED
+68	:: Hand    Detected
+0	:: LED
+0	:: LED
+65	:: Hand    Detected
+0	:: LED
+0	:: LED
+65	:: Hand    Detected
+0	:: LED
+0	:: LED
+61	:: Hand    Detected
+0	:: LED
+0	:: LED
+63	:: Hand    Detected
+0	:: LED
+0	:: LED
+59	:: Hand    Detected
+0	:: LED
+0	:: LED
+57	:: Hand    Detected
+0	:: LED
+0	:: LED
+58	:: Hand    Detected
+0	:: LED
+0	:: LED
+55	:: Hand    Detected
+0	:: LED
+0	:: LED
+55	:: Hand    Detected
+0	:: LED
+0	:: LED
+54	:: Hand    Detected
+0	:: LED
+0	:: LED
+54	:: Hand    Detected
+0	:: LED
+0	:: LED
+51	:: Hand    Detected
+0	:: LED
+0	:: LED
+49	:: Hand    Detected
+0	:: LED
+0	:: LED
+47	:: Hand    Detected
+0	:: LED
+0	:: LED
+47	:: Hand    Detected
+0	:: LED
+0	:: LED
+46	:: Hand    Detected
+0	:: LED
+0	:: LED
+44	:: Hand    Detected
+0	:: LED
+0	:: LED
+43	:: Hand    Detected
+0	:: LED
+0	:: LED
+43	:: Hand    Detected
+0	:: LED
+0	:: LED
+40	:: Hand    Detected
+0	:: LED
+0	:: LED
+41	:: Hand    Detected
+0	:: LED
+0	:: LED
+35	:: Hand    Detected
+0	:: LED
+0	:: LED
+33	:: Hand    Detected
+0	:: LED
+0	:: LED
+32	:: Hand    Detected
+0	:: LED
+0	:: LED
+31	:: Hand    Detected
+0	:: LED
+0	:: LED
+30	:: Hand    Detected
+0	:: LED
+0	:: LED
+27	:: Hand    Detected
+0	:: LED
+0	:: LED
+25	:: Hand    Detected
+0	:: LED
+0	:: LED
+24	:: Hand    Detected
+0	:: LED
+0	:: LED
+22	:: Hand    Detected
+0	:: LED
+0	:: LED
+19	:: Hand    Detected
+0	:: LED
+0	:: LED
+16	:: Hand    Detected
+0	:: LED
+0	:: LED
+15	:: Hand    Detected
+0	:: LED
+0	:: LED
+15	:: Hand    Detected
+0	:: LED
+0	:: LED
+13	:: Hand    Detected
+0	:: LED
+0	:: LED
+11	:: Hand    Detected
+0	:: LED
+0	:: LED
+9	:: Hand    Detected
+0	:: LED
+0	:: LED
+9	:: Hand    Detected
+0	:: LED
+0	:: LED
+7	:: Hand    Detected
+0	:: LED
+0	:: LED
+7	:: Hand    Detected
+0	:: LED
+0	:: LED
+6	:: Hand    Detected
+0	:: LED
+0	:: LED
+5	:: Hand    Detected
+0	:: LED
+0	:: LED
+3	:: Hand    Detected
+0	:: LED
+0	:: LED
+3	:: Hand    Detected
+0	:: LED
+0	:: LED
+2	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+2	:: Hand    Detected
+0	:: LED
+0	:: LED
+2	:: Hand    Detected
+0	:: LED
+0	:: LED
+2	:: Hand    Detected
+0	:: LED
+0	:: LED
+6	:: Hand    Detected
+0	:: LED
+0	:: LED
+6	:: Hand    Detected
+0	:: LED
+0	:: LED
+8	:: Hand    Detected
+0	:: LED
+0	:: LED
+9	:: Hand    Detected
+0	:: LED
+0	:: LED
+10	:: Hand    Detected
+0	:: LED
+0	:: LED
+10	:: Hand    Detected
+0	:: LED
+0	:: LED
+13	:: Hand    Detected
+0	:: LED
+0	:: LED
+15	:: Hand    Detected
+0	:: LED
+0	:: LED
+19	:: Hand    Detected
+0	:: LED
+0	:: LED
+20	:: Hand    Detected
+0	:: LED
+0	:: LED
+22	:: Hand    Detected
+0	:: LED
+0	:: LED
+23	:: Hand    Detected
+0	:: LED
+0	:: LED
+25	:: Hand    Detected
+0	:: LED
+0	:: LED
+27	:: Hand    Detected
+0	:: LED
+0	:: LED
+29	:: Hand    Detected
+0	:: LED
+0	:: LED
+31	:: Hand    Detected
+0	:: LED
+0	:: LED
+32	:: Hand    Detected
+0	:: LED
+0	:: LED
+33	:: Hand    Detected
+0	:: LED
+0	:: LED
+35	:: Hand    Detected
+0	:: LED
+0	:: LED
+37	:: Hand    Detected
+0	:: LED
+0	:: LED
+38	:: Hand    Detected
+0	:: LED
+0	:: LED
+38	:: Hand    Detected
+0	:: LED
+0	:: LED
+41	:: Hand    Detected
+0	:: LED
+0	:: LED
+43	:: Hand    Detected
+0	:: LED
+0	:: LED
+41	:: Hand    Detected
+0	:: LED
+0	:: LED
+46	:: Hand    Detected
+0	:: LED
+0	:: LED
+47	:: Hand    Detected
+0	:: LED
+0	:: LED
+46	:: Hand    Detected
+0	:: LED
+0	:: LED
+47	:: Hand    Detected
+0	:: LED
+0	:: LED
+52	:: Hand    Detected
+0	:: LED
+0	:: LED
+52	:: Hand    Detected
+0	:: LED
+0	:: LED
+54	:: Hand    Detected
+0	:: LED
+0	:: LED
+52	:: Hand    Detected
+0	:: LED
+0	:: LED
+55	:: Hand    Detected
+0	:: LED
+0	:: LED
+58	:: Hand    Detected
+0	:: LED
+0	:: LED
+60	:: Hand    Detected
+0	:: LED
+0	:: LED
+60	:: Hand    Detected
+0	:: LED
+0	:: LED
+59	:: Hand    Detected
+0	:: LED
+0	:: LED
+59	:: Hand    Detected
+0	:: LED
+0	:: LED
+63	:: Hand    Detected
+0	:: LED
+0	:: LED
+62	:: Hand    Detected
+0	:: LED
+0	:: LED
+64	:: Hand    Detected
+0	:: LED
+0	:: LED
+65	:: Hand    Detected
+0	:: LED
+0	:: LED
+64	:: Hand    Detected
+0	:: LED
+0	:: LED
+67	:: Hand    Detected
+0	:: LED
+0	:: LED
+68	:: Hand    Detected
+0	:: LED
+0	:: LED
+67	:: Hand    Detected
+0	:: LED
+0	:: LED
+68	:: Hand    Detected
+0	:: LED
+0	:: LED
+70	:: Hand    Detected
+0	:: LED
+0	:: LED
+73	:: Hand    Detected
+0	:: LED
+0	:: LED
+68	:: Hand    Detected
+0	:: LED
+0	:: LED
+72	:: Hand    Detected
+0	:: LED
+0	:: LED
+73	:: Hand    Detected
+0	:: LED
+0	:: LED
+74	:: Hand    Detected
+0	:: LED
+0	:: LED
+75	:: Hand    Detected
+0	:: LED
+0	:: LED
+76	:: Hand    Detected
+0	:: LED
+0	:: LED
+78	:: Hand    Detected
+0	:: LED
+0	:: LED
+77	:: Hand    Detected
+0	:: LED
+0	:: LED
+78	:: Hand    Detected
+0	:: LED
+0	:: LED
+79	:: Hand    Detected
+0	:: LED
+0	:: LED
+80	:: Hand    Detected
+0	:: LED
+0	:: LED
+82	:: Hand    Detected
+0	:: LED
+0	:: LED
+85	:: Hand    Detected
+0	:: LED
+0	:: LED
+85	:: Hand    Detected
+0	:: LED
+0	:: LED
+82	:: Hand    Detected
+0	:: LED
+0	:: LED
+85	:: Hand    Detected
+0	:: LED
+0	:: LED
+89	:: Hand    Detected
+0	:: LED
+0	:: LED
+88	:: Hand    Detected
+0	:: LED
+0	:: LED
+90	:: Hand    Detected
+0	:: LED
+0	:: LED
+91	:: Hand    Detected
+0	:: LED
+0	:: LED
+89	:: Hand    Detected
+0	:: LED
+0	:: LED
+92	:: Hand    Detected
+0	:: LED
+0	:: LED
+94	:: Hand    Detected
+0	:: LED
+0	:: LED
+96	:: Hand    Detected
+0	:: LED
+0	:: LED
+96	:: Hand    Detected
+0	:: LED
+0	:: LED
+97	:: Hand    Detected
+0	:: LED
+0	:: LED
+98	:: Hand    Detected
+0	:: LED
+0	:: LED
+99	:: Hand    Detected
+0	:: LED
+0	:: LED
+102	:: Hand    Detected
+0	:: LED
+0	:: LED
+101	:: Hand    Detected
+0	:: LED
+0	:: LED
+102	:: Hand    Detected
+0	:: LED
+0	:: LED
+105	:: Hand    Detected
+0	:: LED
+0	:: LED
+106	:: Hand    Detected
+0	:: LED
+0	:: LED
+107	:: Hand    Detected
+0	:: LED
+0	:: LED
+108	:: Hand    Detected
+0	:: LED
+0	:: LED
+109	:: Hand    Detected
+0	:: LED
+0	:: LED
+112	:: Hand    Detected
+0	:: LED
+0	:: LED
+114	:: Hand    Detected
+0	:: LED
+0	:: LED
+113	:: Hand    Detected
+0	:: LED
+0	:: LED
+112	:: Hand    Detected
+0	:: LED
+0	:: LED
+115	:: Hand    Detected
+0	:: LED
+0	:: LED
+118	:: Hand    Detected
+0	:: LED
+0	:: LED
+117	:: Hand    Detected
+0	:: LED
+0	:: LED
+118	:: Hand    Detected
+0	:: LED
+0	:: LED
+119	:: Hand    Detected
+0	:: LED
+0	:: LED
+121	:: Hand    Detected
+0	:: LED
+0	:: LED
+122	:: Hand    Detected
+0	:: LED
+0	:: LED
+120	:: Hand    Detected
+0	:: LED
+0	:: LED
+125	:: Hand    Detected
+0	:: LED
+0	:: LED
+126	:: Hand    Detected
+0	:: LED
+0	:: LED
+127	:: Hand    Detected
+0	:: LED
+0	:: LED
+128	:: Hand    Detected
+0	:: LED
+0	:: LED
+127	:: Hand    Detected
+0	:: LED
+0	:: LED
+130	:: Hand    Detected
+0	:: LED
+0	:: LED
+131	:: Hand    Detected
+0	:: LED
+0	:: LED
+132	:: Hand    Detected
+0	:: LED
+0	:: LED
+131	:: Hand    Detected
+0	:: LED
+0	:: LED
+130	:: Hand    Detected
+0	:: LED
+0	:: LED
+133	:: Hand    Detected
+0	:: LED
+0	:: LED
+133	:: Hand    Detected
+0	:: LED
+0	:: LED
+134	:: Hand    Detected
+0	:: LED
+0	:: LED
+135	:: Hand    Detected
+0	:: LED
+0	:: LED
+136	:: Hand    Detected
+0	:: LED
+0	:: LED
+134	:: Hand    Detected
+0	:: LED
+0	:: LED
+137	:: Hand    Detected
+0	:: LED
+0	:: LED
+139	:: Hand    Detected
+0	:: LED
+0	:: LED
+135	:: Hand    Detected
+0	:: LED
+0	:: LED
+137	:: Hand    Detected
+0	:: LED
+0	:: LED
+138	:: Hand    Detected
+0	:: LED
+0	:: LED
+140	:: Hand    Detected
+0	:: LED
+0	:: LED
+140	:: Hand    Detected
+0	:: LED
+0	:: LED
+142	:: Hand    Detected
+0	:: LED
+0	:: LED
+140	:: Hand    Detected
+0	:: LED
+0	:: LED
+143	:: Hand    Detected
+0	:: LED
+0	:: LED
+146	:: Hand    Detected
+0	:: LED
+0	:: LED
+145	:: Hand    Detected
+0	:: LED
+0	:: LED
+143	:: Hand    Detected
+0	:: LED
+0	:: LED
+146	:: Hand    Detected
+0	:: LED
+0	:: LED
+144	:: Hand    Detected
+0	:: LED
+0	:: LED
+146	:: Hand    Detected
+0	:: LED
+0	:: LED
+147	:: Hand    Detected
+0	:: LED
+0	:: LED
+146	:: Hand    Detected
+0	:: LED
+0	:: LED
+147	:: Hand    Detected
+0	:: LED
+0	:: LED
+148	:: Hand    Detected
+0	:: LED
+0	:: LED
+150	:: Hand    Detected
+0	:: LED
+0	:: LED
+148	:: Hand    Detected
+0	:: LED
+0	:: LED
+153	:: Hand    Detected
+0	:: LED
+0	:: LED
+151	:: Hand    Detected
+0	:: LED
+0	:: LED
+153	:: Hand    Detected
+0	:: LED
+0	:: LED
+153	:: Hand    Detected
+0	:: LED
+0	:: LED
+154	:: Hand    Detected
+0	:: LED
+0	:: LED
+155	:: Hand    Detected
+0	:: LED
+0	:: LED
+155	:: Hand    Detected
+0	:: LED
+0	:: LED
+154	:: Hand    Detected
+0	:: LED
+0	:: LED
+155	:: Hand    Detected
+0	:: LED
+0	:: LED
+154	:: Hand    Detected
+0	:: LED
+0	:: LED
+157	:: Hand    Detected
+0	:: LED
+0	:: LED
+155	:: Hand    Detected
+0	:: LED
+0	:: LED
+158	:: Hand    Detected
+0	:: LED
+0	:: LED
+158	:: Hand    Detected
+0	:: LED
+0	:: LED
+156	:: Hand    Detected
+0	:: LED
+0	:: LED
+158	:: Hand    Detected
+0	:: LED
+0	:: LED
+159	:: Hand    Detected
+0	:: LED
+0	:: LED
+159	:: Hand    Detected
+0	:: LED
+0	:: LED
+162	:: Hand    Detected
+0	:: LED
+0	:: LED
+162	:: Hand    Detected
+0	:: LED
+0	:: LED
+159	:: Hand    Detected
+0	:: LED
+0	:: LED
+163	:: Hand    Detected
+0	:: LED
+0	:: LED
+162	:: Hand    Detected
+0	:: LED
+0	:: LED
+161	:: Hand    Detected
+0	:: LED
+0	:: LED
+162	:: Hand    Detected
+0	:: LED
+0	:: LED
+163	:: Hand    Detected
+0	:: LED
+0	:: LED
+163	:: Hand    Detected
+0	:: LED
+0	:: LED
+164	:: Hand    Detected
+0	:: LED
+0	:: LED
+162	:: Hand    Detected
+0	:: LED
+0	:: LED
+165	:: Hand    Detected
+0	:: LED
+0	:: LED
+164	:: Hand    Detected
+0	:: LED
+0	:: LED
+166	:: Hand    Detected
+0	:: LED
+0	:: LED
+166	:: Hand    Detected
+0	:: LED
+0	:: LED
+166	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+165	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+169	:: Hand    Detected
+0	:: LED
+0	:: LED
+170	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+172	:: Hand    Detected
+0	:: LED
+0	:: LED
+172	:: Hand    Detected
+0	:: LED
+0	:: LED
+173	:: Hand    Detected
+0	:: LED
+0	:: LED
+174	:: Hand    Detected
+0	:: LED
+0	:: LED
+172	:: Hand    Detected
+0	:: LED
+0	:: LED
+173	:: Hand    Detected
+0	:: LED
+0	:: LED
+174	:: Hand    Detected
+0	:: LED
+0	:: LED
+173	:: Hand    Detected
+0	:: LED
+0	:: LED
+172	:: Hand    Detected
+0	:: LED
+0	:: LED
+174	:: Hand    Detected
+0	:: LED
+0	:: LED
+173	:: Hand    Detected
+0	:: LED
+0	:: LED
+172	:: Hand    Detected
+0	:: LED
+0	:: LED
+173	:: Hand    Detected
+0	:: LED
+0	:: LED
+176	:: Hand    Detected
+0	:: LED
+0	:: LED
+175	:: Hand    Detected
+0	:: LED
+0	:: LED
+177	:: Hand    Detected
+0	:: LED
+0	:: LED
+177	:: Hand    Detected
+0	:: LED
+0	:: LED
+177	:: Hand    Detected
+0	:: LED
+0	:: LED
+179	:: Hand    Detected
+0	:: LED
+0	:: LED
+177	:: Hand    Detected
+0	:: LED
+0	:: LED
+175	:: Hand    Detected
+0	:: LED
+0	:: LED
+175	:: Hand    Detected
+0	:: LED
+0	:: LED
+180	:: Hand    Detected
+0	:: LED
+0	:: LED
+178	:: Hand    Detected
+0	:: LED
+0	:: LED
+178	:: Hand    Detected
+0	:: LED
+0	:: LED
+177	:: Hand    Detected
+0	:: LED
+0	:: LED
+181	:: Hand    Detected
+0	:: LED
+0	:: LED
+181	:: Hand    Detected
+0	:: LED
+0	:: LED
+179	:: Hand    Detected
+0	:: LED
+0	:: LED
+182	:: Hand    Detected
+0	:: LED
+0	:: LED
+181	:: Hand    Detected
+0	:: LED
+0	:: LED
+180	:: Hand    Detected
+0	:: LED
+0	:: LED
+182	:: Hand    Detected
+0	:: LED
+0	:: LED
+183	:: Hand    Detected
+0	:: LED
+0	:: LED
+182	:: Hand    Detected
+0	:: LED
+0	:: LED
+181	:: Hand    Detected
+0	:: LED
+0	:: LED
+182	:: Hand    Detected
+0	:: LED
+0	:: LED
+185	:: Hand    Detected
+0	:: LED
+0	:: LED
+183	:: Hand    Detected
+0	:: LED
+0	:: LED
+185	:: Hand    Detected
+0	:: LED
+0	:: LED
+181	:: Hand    Detected
+0	:: LED
+0	:: LED
+184	:: Hand    Detected
+0	:: LED
+0	:: LED
+184	:: Hand    Detected
+0	:: LED
+0	:: LED
+184	:: Hand    Detected
+0	:: LED
+0	:: LED
+185	:: Hand    Detected
+0	:: LED
+0	:: LED
+187	:: Hand    Detected
+0	:: LED
+0	:: LED
+185	:: Hand    Detected
+0	:: LED
+0	:: LED
+185	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+186	:: Hand    Detected
+0	:: LED
+0	:: LED
+187	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+189	:: Hand    Detected
+0	:: LED
+0	:: LED
+187	:: Hand    Detected
+0	:: LED
+0	:: LED
+190	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+190	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+191	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+191	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+196	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+199	:: Hand    Detected
+0	:: LED
+0	:: LED
+199	:: Hand    Detected
+0	:: LED
+0	:: LED
+199	:: Hand    Detected
+0	:: LED
+0	:: LED
+199	:: Hand    Detected
+0	:: LED
+0	:: LED
+201	:: Hand Not Detected
+85	:: LED
+85	:: LED
+200	:: Hand Not Detected
+85	:: LED
+85	:: LED
+200	:: Hand Not Detected
+85	:: LED
+85	:: LED
+200	:: Hand Not Detected
+85	:: LED
+86	:: LED
+200	:: Hand Not Detected
+86	:: LED
+86	:: LED
+202	:: Hand Not Detected
+86	:: LED
+92	:: LED
+199	:: Hand    Detected
+0	:: LED
+0	:: LED
+200	:: Hand Not Detected
+92	:: LED
+93	:: LED
+204	:: Hand Not Detected
+93	:: LED
+93	:: LED
+202	:: Hand Not Detected
+92	:: LED
+92	:: LED
+200	:: Hand Not Detected
+92	:: LED
+92	:: LED
+203	:: Hand Not Detected
+95	:: LED
+95	:: LED
+203	:: Hand Not Detected
+95	:: LED
+95	:: LED
+199	:: Hand    Detected
+0	:: LED
+0	:: LED
+203	:: Hand Not Detected
+96	:: LED
+96	:: LED
+205	:: Hand Not Detected
+102	:: LED
+102	:: LED
+201	:: Hand Not Detected
+102	:: LED
+102	:: LED
+205	:: Hand Not Detected
+104	:: LED
+104	:: LED
+205	:: Hand Not Detected
+104	:: LED
+104	:: LED
+200	:: Hand Not Detected
+105	:: LED
+105	:: LED
+204	:: Hand Not Detected
+105	:: LED
+105	:: LED
+204	:: Hand Not Detected
+106	:: LED
+106	:: LED
+202	:: Hand Not Detected
+106	:: LED
+106	:: LED
+206	:: Hand Not Detected
+112	:: LED
+112	:: LED
+204	:: Hand Not Detected
+112	:: LED
+112	:: LED
+207	:: Hand Not Detected
+123	:: LED
+123	:: LED
+206	:: Hand Not Detected
+128	:: LED
+128	:: LED
+204	:: Hand Not Detected
+128	:: LED
+128	:: LED
+204	:: Hand Not Detected
+135	:: LED
+135	:: LED
+206	:: Hand Not Detected
+135	:: LED
+135	:: LED
+207	:: Hand Not Detected
+136	:: LED
+136	:: LED
+209	:: Hand Not Detected
+136	:: LED
+136	:: LED
+207	:: Hand Not Detected
+141	:: LED
+141	:: LED
+208	:: Hand Not Detected
+141	:: LED
+141	:: LED
+207	:: Hand Not Detected
+142	:: LED
+142	:: LED
+208	:: Hand Not Detected
+142	:: LED
+142	:: LED
+209	:: Hand Not Detected
+148	:: LED
+148	:: LED
+210	:: Hand Not Detected
+148	:: LED
+148	:: LED
+211	:: Hand Not Detected
+153	:: LED
+153	:: LED
+206	:: Hand Not Detected
+153	:: LED
+153	:: LED
+211	:: Hand Not Detected
+155	:: LED
+155	:: LED
+211	:: Hand Not Detected
+155	:: LED
+155	:: LED
+211	:: Hand Not Detected
+159	:: LED
+159	:: LED
+211	:: Hand Not Detected
+159	:: LED
+159	:: LED
+213	:: Hand Not Detected
+165	:: LED
+165	:: LED
+213	:: Hand Not Detected
+165	:: LED
+165	:: LED
+212	:: Hand Not Detected
+168	:: LED
+168	:: LED
+212	:: Hand Not Detected
+168	:: LED
+172	:: LED
+209	:: Hand Not Detected
+172	:: LED
+172	:: LED
+211	:: Hand Not Detected
+172	:: LED
+173	:: LED
+211	:: Hand Not Detected
+173	:: LED
+173	:: LED
+213	:: Hand Not Detected
+173	:: LED
+178	:: LED
+213	:: Hand Not Detected
+178	:: LED
+178	:: LED
+214	:: Hand Not Detected
+178	:: LED
+178	:: LED
+214	:: Hand Not Detected
+178	:: LED
+178	:: LED
+212	:: Hand Not Detected
+178	:: LED
+178	:: LED
+216	:: Hand Not Detected
+178	:: LED
+178	:: LED
+214	:: Hand Not Detected
+178	:: LED
+181	:: LED
+213	:: Hand Not Detected
+181	:: LED
+181	:: LED
+214	:: Hand Not Detected
+181	:: LED
+184	:: LED
+214	:: Hand Not Detected
+184	:: LED
+184	:: LED
+213	:: Hand Not Detected
+184	:: LED
+184	:: LED
+214	:: Hand Not Detected
+184	:: LED
+184	:: LED
+215	:: Hand Not Detected
+184	:: LED
+188	:: LED
+216	:: Hand Not Detected
+188	:: LED
+188	:: LED
+219	:: Hand Not Detected
+188	:: LED
+188	:: LED
+216	:: Hand Not Detected
+188	:: LED
+188	:: LED
+215	:: Hand Not Detected
+188	:: LED
+190	:: LED
+219	:: Hand Not Detected
+190	:: LED
+190	:: LED
+215	:: Hand Not Detected
+193	:: LED
+193	:: LED
+215	:: Hand Not Detected
+193	:: LED
+193	:: LED
+217	:: Hand Not Detected
+192	:: LED
+192	:: LED
+217	:: Hand Not Detected
+192	:: LED
+192	:: LED
+217	:: Hand Not Detected
+196	:: LED
+196	:: LED
+216	:: Hand Not Detected
+196	:: LED
+196	:: LED
+218	:: Hand Not Detected
+200	:: LED
+200	:: LED
+215	:: Hand Not Detected
+200	:: LED
+200	:: LED
+218	:: Hand Not Detected
+200	:: LED
+200	:: LED
+218	:: Hand Not Detected
+200	:: LED
+200	:: LED
+220	:: Hand Not Detected
+206	:: LED
+206	:: LED
+220	:: Hand Not Detected
+206	:: LED
+206	:: LED
+216	:: Hand Not Detected
+206	:: LED
+206	:: LED
+219	:: Hand Not Detected
+206	:: LED
+206	:: LED
+220	:: Hand Not Detected
+211	:: LED
+211	:: LED
+219	:: Hand Not Detected
+211	:: LED
+211	:: LED
+219	:: Hand Not Detected
+216	:: LED
+216	:: LED
+221	:: Hand Not Detected
+216	:: LED
+216	:: LED
+219	:: Hand Not Detected
+218	:: LED
+218	:: LED
+218	:: Hand Not Detected
+218	:: LED
+218	:: LED
+221	:: Hand Not Detected
+222	:: LED
+222	:: LED
+221	:: Hand Not Detected
+222	:: LED
+222	:: LED
+221	:: Hand Not Detected
+225	:: LED
+225	:: LED
+222	:: Hand Not Detected
+225	:: LED
+226	:: LED
+220	:: Hand Not Detected
+226	:: LED
+226	:: LED
+222	:: Hand Not Detected
+226	:: LED
+231	:: LED
+223	:: Hand Not Detected
+231	:: LED
+231	:: LED
+219	:: Hand Not Detected
+231	:: LED
+231	:: LED
+220	:: Hand Not Detected
+231	:: LED
+231	:: LED
+221	:: Hand Not Detected
+231	:: LED
+234	:: LED
+221	:: Hand Not Detected
+234	:: LED
+234	:: LED
+222	:: Hand Not Detected
+234	:: LED
+237	:: LED
+222	:: Hand Not Detected
+237	:: LED
+237	:: LED
+222	:: Hand Not Detected
+237	:: LED
+235	:: LED
+223	:: Hand Not Detected
+235	:: LED
+235	:: LED
+223	:: Hand Not Detected
+235	:: LED
+239	:: LED
+221	:: Hand Not Detected
+239	:: LED
+239	:: LED
+221	:: Hand Not Detected
+239	:: LED
+242	:: LED
+219	:: Hand Not Detected
+242	:: LED
+242	:: LED
+223	:: Hand Not Detected
+242	:: LED
+240	:: LED
+223	:: Hand Not Detected
+240	:: LED
+240	:: LED
+222	:: Hand Not Detected
+240	:: LED
+243	:: LED
+226	:: Hand Not Detected
+243	:: LED
+243	:: LED
+223	:: Hand Not Detected
+243	:: LED
+240	:: LED
+224	:: Hand Not Detected
+240	:: LED
+240	:: LED
+222	:: Hand Not Detected
+245	:: LED
+245	:: LED
+224	:: Hand Not Detected
+245	:: LED
+245	:: LED
+222	:: Hand Not Detected
+247	:: LED
+247	:: LED
+226	:: Hand Not Detected
+247	:: LED
+247	:: LED
+224	:: Hand Not Detected
+246	:: LED
+246	:: LED
+226	:: Hand Not Detected
+246	:: LED
+246	:: LED
+225	:: Hand Not Detected
+249	:: LED
+249	:: LED
+224	:: Hand Not Detected
+249	:: LED
+249	:: LED
+226	:: Hand Not Detected
+252	:: LED
+252	:: LED
+226	:: Hand Not Detected
+252	:: LED
+252	:: LED
+224	:: Hand Not Detected
+250	:: LED
+250	:: LED
+225	:: Hand Not Detected
+250	:: LED
+250	:: LED
+223	:: Hand Not Detected
+253	:: LED
+253	:: LED
+224	:: Hand Not Detected
+253	:: LED
+253	:: LED
+227	:: Hand Not Detected
+252	:: LED
+252	:: LED
+225	:: Hand Not Detected
+252	:: LED
+252	:: LED
+225	:: Hand Not Detected
+253	:: LED
+253	:: LED
+227	:: Hand Not Detected
+253	:: LED
+253	:: LED
+225	:: Hand Not Detected
+256	:: LED
+256	:: LED
+225	:: Hand Not Detected
+256	:: LED
+256	:: LED
+226	:: Hand Not Detected
+255	:: LED
+255	:: LED
+226	:: Hand Not Detected
+255	:: LED
+257	:: LED
+226	:: Hand Not Detected
+257	:: LED
+257	:: LED
+227	:: Hand Not Detected
+257	:: LED
+259	:: LED
+227	:: Hand Not Detected
+259	:: LED
+259	:: LED
+227	:: Hand Not Detected
+259	:: LED
+258	:: LED
+227	:: Hand Not Detected
+258	:: LED
+258	:: LED
+228	:: Hand Not Detected
+258	:: LED
+260	:: LED
+228	:: Hand Not Detected
+260	:: LED
+260	:: LED
+228	:: Hand Not Detected
+260	:: LED
+259	:: LED
+227	:: Hand Not Detected
+259	:: LED
+259	:: LED
+229	:: Hand Not Detected
+259	:: LED
+262	:: LED
+229	:: Hand Not Detected
+262	:: LED
+262	:: LED
+229	:: Hand Not Detected
+262	:: LED
+262	:: LED
+227	:: Hand Not Detected
+262	:: LED
+262	:: LED
+228	:: Hand Not Detected
+262	:: LED
+259	:: LED
+229	:: Hand Not Detected
+259	:: LED
+259	:: LED
+230	:: Hand Not Detected
+259	:: LED
+261	:: LED
+227	:: Hand Not Detected
+261	:: LED
+261	:: LED
+229	:: Hand Not Detected
+261	:: LED
+262	:: LED
+229	:: Hand Not Detected
+262	:: LED
+262	:: LED
+230	:: Hand Not Detected
+262	:: LED
+258	:: LED
+229	:: Hand Not Detected
+258	:: LED
+258	:: LED
+227	:: Hand Not Detected
+259	:: LED
+259	:: LED
+231	:: Hand Not Detected
+259	:: LED
+259	:: LED
+229	:: Hand Not Detected
+253	:: LED
+253	:: LED
+230	:: Hand Not Detected
+253	:: LED
+253	:: LED
+232	:: Hand Not Detected
+257	:: LED
+257	:: LED
+231	:: Hand Not Detected
+257	:: LED
+257	:: LED
+230	:: Hand Not Detected
+258	:: LED
+258	:: LED
+231	:: Hand Not Detected
+258	:: LED
+258	:: LED
+231	:: Hand Not Detected
+252	:: LED
+252	:: LED
+230	:: Hand Not Detected
+252	:: LED
+252	:: LED
+230	:: Hand Not Detected
+252	:: LED
+252	:: LED
+230	:: Hand Not Detected
+252	:: LED
+252	:: LED
+229	:: Hand Not Detected
+255	:: LED
+255	:: LED
+232	:: Hand Not Detected
+255	:: LED
+255	:: LED
+231	:: Hand Not Detected
+249	:: LED
+249	:: LED
+231	:: Hand Not Detected
+249	:: LED
+249	:: LED
+232	:: Hand Not Detected
+250	:: LED
+250	:: LED
+233	:: Hand Not Detected
+250	:: LED
+250	:: LED
+230	:: Hand Not Detected
+245	:: LED
+245	:: LED
+233	:: Hand Not Detected
+245	:: LED
+245	:: LED
+231	:: Hand Not Detected
+247	:: LED
+247	:: LED
+232	:: Hand Not Detected
+247	:: LED
+247	:: LED
+232	:: Hand Not Detected
+249	:: LED
+249	:: LED
+231	:: Hand Not Detected
+249	:: LED
+244	:: LED
+232	:: Hand Not Detected
+244	:: LED
+244	:: LED
+233	:: Hand Not Detected
+244	:: LED
+245	:: LED
+232	:: Hand Not Detected
+245	:: LED
+245	:: LED
+233	:: Hand Not Detected
+245	:: LED
+245	:: LED
+233	:: Hand Not Detected
+245	:: LED
+245	:: LED
+233	:: Hand Not Detected
+245	:: LED
+240	:: LED
+233	:: Hand Not Detected
+240	:: LED
+240	:: LED
+234	:: Hand Not Detected
+240	:: LED
+240	:: LED
+233	:: Hand Not Detected
+240	:: LED
+240	:: LED
+233	:: Hand Not Detected
+240	:: LED
+236	:: LED
+234	:: Hand Not Detected
+236	:: LED
+236	:: LED
+234	:: Hand Not Detected
+236	:: LED
+238	:: LED
+235	:: Hand Not Detected
+238	:: LED
+238	:: LED
+235	:: Hand Not Detected
+238	:: LED
+239	:: LED
+234	:: Hand Not Detected
+239	:: LED
+239	:: LED
+234	:: Hand Not Detected
+239	:: LED
+233	:: LED
+234	:: Hand Not Detected
+233	:: LED
+233	:: LED
+234	:: Hand Not Detected
+233	:: LED
+235	:: LED
+235	:: Hand Not Detected
+235	:: LED
+235	:: LED
+234	:: Hand Not Detected
+235	:: LED
+235	:: LED
+234	:: Hand Not Detected
+235	:: LED
+235	:: LED
+231	:: Hand Not Detected
+230	:: LED
+230	:: LED
+233	:: Hand Not Detected
+230	:: LED
+230	:: LED
+234	:: Hand Not Detected
+228	:: LED
+228	:: LED
+234	:: Hand Not Detected
+228	:: LED
+228	:: LED
+236	:: Hand Not Detected
+222	:: LED
+222	:: LED
+234	:: Hand Not Detected
+222	:: LED
+222	:: LED
+236	:: Hand Not Detected
+223	:: LED
+223	:: LED
+235	:: Hand Not Detected
+223	:: LED
+223	:: LED
+235	:: Hand Not Detected
+225	:: LED
+225	:: LED
+234	:: Hand Not Detected
+225	:: LED
+225	:: LED
+237	:: Hand Not Detected
+217	:: LED
+217	:: LED
+234	:: Hand Not Detected
+217	:: LED
+217	:: LED
+234	:: Hand Not Detected
+218	:: LED
+218	:: LED
+239	:: Hand Not Detected
+218	:: LED
+218	:: LED
+236	:: Hand Not Detected
+219	:: LED
+219	:: LED
+234	:: Hand Not Detected
+219	:: LED
+219	:: LED
+238	:: Hand Not Detected
+210	:: LED
+210	:: LED
+235	:: Hand Not Detected
+210	:: LED
+210	:: LED
+235	:: Hand Not Detected
+210	:: LED
+210	:: LED
+237	:: Hand Not Detected
+210	:: LED
+210	:: LED
+236	:: Hand Not Detected
+200	:: LED
+200	:: LED
+238	:: Hand Not Detected
+200	:: LED
+200	:: LED
+236	:: Hand Not Detected
+200	:: LED
+200	:: LED
+237	:: Hand Not Detected
+200	:: LED
+203	:: LED
+236	:: Hand Not Detected
+203	:: LED
+203	:: LED
+236	:: Hand Not Detected
+203	:: LED
+193	:: LED
+238	:: Hand Not Detected
+193	:: LED
+193	:: LED
+237	:: Hand Not Detected
+193	:: LED
+195	:: LED
+238	:: Hand Not Detected
+195	:: LED
+195	:: LED
+237	:: Hand Not Detected
+195	:: LED
+195	:: LED
+237	:: Hand Not Detected
+195	:: LED
+195	:: LED
+239	:: Hand Not Detected
+195	:: LED
+186	:: LED
+237	:: Hand Not Detected
+186	:: LED
+186	:: LED
+236	:: Hand Not Detected
+186	:: LED
+188	:: LED
+237	:: Hand Not Detected
+188	:: LED
+188	:: LED
+237	:: Hand Not Detected
+188	:: LED
+179	:: LED
+237	:: Hand Not Detected
+179	:: LED
+179	:: LED
+241	:: Hand Not Detected
+179	:: LED
+180	:: LED
+237	:: Hand Not Detected
+180	:: LED
+180	:: LED
+238	:: Hand Not Detected
+180	:: LED
+179	:: LED
+239	:: Hand Not Detected
+179	:: LED
+179	:: LED
+238	:: Hand Not Detected
+179	:: LED
+170	:: LED
+239	:: Hand Not Detected
+170	:: LED
+170	:: LED
+236	:: Hand Not Detected
+170	:: LED
+170	:: LED
+237	:: Hand Not Detected
+170	:: LED
+170	:: LED
+236	:: Hand Not Detected
+171	:: LED
+171	:: LED
+238	:: Hand Not Detected
+171	:: LED
+171	:: LED
+237	:: Hand Not Detected
+164	:: LED
+164	:: LED
+240	:: Hand Not Detected
+164	:: LED
+164	:: LED
+239	:: Hand Not Detected
+165	:: LED
+165	:: LED
+240	:: Hand Not Detected
+165	:: LED
+165	:: LED
+237	:: Hand Not Detected
+164	:: LED
+164	:: LED
+239	:: Hand Not Detected
+164	:: LED
+164	:: LED
+239	:: Hand Not Detected
+156	:: LED
+156	:: LED
+239	:: Hand Not Detected
+156	:: LED
+156	:: LED
+240	:: Hand Not Detected
+157	:: LED
+157	:: LED
+239	:: Hand Not Detected
+157	:: LED
+157	:: LED
+238	:: Hand Not Detected
+150	:: LED
+150	:: LED
+238	:: Hand Not Detected
+150	:: LED
+150	:: LED
+240	:: Hand Not Detected
+146	:: LED
+146	:: LED
+238	:: Hand Not Detected
+146	:: LED
+146	:: LED
+240	:: Hand Not Detected
+149	:: LED
+149	:: LED
+240	:: Hand Not Detected
+149	:: LED
+149	:: LED
+240	:: Hand Not Detected
+141	:: LED
+141	:: LED
+240	:: Hand Not Detected
+141	:: LED
+141	:: LED
+241	:: Hand Not Detected
+142	:: LED
+142	:: LED
+239	:: Hand Not Detected
+142	:: LED
+141	:: LED
+239	:: Hand Not Detected
+141	:: LED
+141	:: LED
+240	:: Hand Not Detected
+141	:: LED
+132	:: LED
+240	:: Hand Not Detected
+132	:: LED
+132	:: LED
+241	:: Hand Not Detected
+132	:: LED
+135	:: LED
+241	:: Hand Not Detected
+135	:: LED
+135	:: LED
+241	:: Hand Not Detected
+135	:: LED
+125	:: LED
+241	:: Hand Not Detected
+125	:: LED
+125	:: LED
+242	:: Hand Not Detected
+125	:: LED
+125	:: LED
+240	:: Hand Not Detected
+125	:: LED
+125	:: LED
+241	:: Hand Not Detected
+125	:: LED
+125	:: LED
+241	:: Hand Not Detected
+125	:: LED
+125	:: LED
+239	:: Hand Not Detected
+125	:: LED
+116	:: LED
+239	:: Hand Not Detected
+116	:: LED
+116	:: LED
+241	:: Hand Not Detected
+116	:: LED
+117	:: LED
+241	:: Hand Not Detected
+117	:: LED
+117	:: LED
+240	:: Hand Not Detected
+117	:: LED
+117	:: LED
+243	:: Hand Not Detected
+117	:: LED
+117	:: LED
+242	:: Hand Not Detected
+117	:: LED
+110	:: LED
+240	:: Hand Not Detected
+110	:: LED
+110	:: LED
+241	:: Hand Not Detected
+110	:: LED
+111	:: LED
+239	:: Hand Not Detected
+111	:: LED
+111	:: LED
+242	:: Hand Not Detected
+101	:: LED
+101	:: LED
+241	:: Hand Not Detected
+101	:: LED
+101	:: LED
+240	:: Hand Not Detected
+101	:: LED
+101	:: LED
+239	:: Hand Not Detected
+101	:: LED
+101	:: LED
+241	:: Hand Not Detected
+103	:: LED
+103	:: LED
+240	:: Hand Not Detected
+103	:: LED
+103	:: LED
+242	:: Hand Not Detected
+93	:: LED
+93	:: LED
+241	:: Hand Not Detected
+93	:: LED
+93	:: LED
+240	:: Hand Not Detected
+93	:: LED
+93	:: LED
+241	:: Hand Not Detected
+93	:: LED
+93	:: LED
+241	:: Hand Not Detected
+93	:: LED
+93	:: LED
+241	:: Hand Not Detected
+93	:: LED
+93	:: LED
+243	:: Hand Not Detected
+86	:: LED
+86	:: LED
+242	:: Hand Not Detected
+86	:: LED
+86	:: LED
+240	:: Hand Not Detected
+87	:: LED
+87	:: LED
+242	:: Hand Not Detected
+87	:: LED
+87	:: LED
+242	:: Hand Not Detected
+77	:: LED
+77	:: LED
+243	:: Hand Not Detected
+77	:: LED
+77	:: LED
+241	:: Hand Not Detected
+77	:: LED
+77	:: LED
+241	:: Hand Not Detected
+77	:: LED
+77	:: LED
+241	:: Hand Not Detected
+79	:: LED
+79	:: LED
+243	:: Hand Not Detected
+79	:: LED
+72	:: LED
+242	:: Hand Not Detected
+72	:: LED
+72	:: LED
+243	:: Hand Not Detected
+72	:: LED
+73	:: LED
+241	:: Hand Not Detected
+73	:: LED
+73	:: LED
+242	:: Hand Not Detected
+73	:: LED
+72	:: LED
+242	:: Hand Not Detected
+72	:: LED
+72	:: LED
+241	:: Hand Not Detected
+72	:: LED
+64	:: LED
+242	:: Hand Not Detected
+64	:: LED
+64	:: LED
+240	:: Hand Not Detected
+64	:: LED
+65	:: LED
+241	:: Hand Not Detected
+65	:: LED
+65	:: LED
+242	:: Hand Not Detected
+65	:: LED
+57	:: LED
+244	:: Hand Not Detected
+57	:: LED
+57	:: LED
+242	:: Hand Not Detected
+57	:: LED
+58	:: LED
+242	:: Hand Not Detected
+58	:: LED
+58	:: LED
+243	:: Hand Not Detected
+58	:: LED
+58	:: LED
+242	:: Hand Not Detected
+58	:: LED
+58	:: LED
+244	:: Hand Not Detected
+58	:: LED
+49	:: LED
+243	:: Hand Not Detected
+49	:: LED
+49	:: LED
+241	:: Hand Not Detected
+49	:: LED
+50	:: LED
+245	:: Hand Not Detected
+50	:: LED
+50	:: LED
+242	:: Hand Not Detected
+50	:: LED
+52	:: LED
+242	:: Hand Not Detected
+52	:: LED
+52	:: LED
+243	:: Hand Not Detected
+44	:: LED
+44	:: LED
+242	:: Hand Not Detected
+44	:: LED
+44	:: LED
+243	:: Hand Not Detected
+43	:: LED
+43	:: LED
+244	:: Hand Not Detected
+43	:: LED
+43	:: LED
+242	:: Hand Not Detected
+34	:: LED
+34	:: LED
+242	:: Hand Not Detected
+34	:: LED
+34	:: LED
+245	:: Hand Not Detected
+35	:: LED
+35	:: LED
+245	:: Hand Not Detected
+35	:: LED
+35	:: LED
+243	:: Hand Not Detected
+35	:: LED
+35	:: LED
+242	:: Hand Not Detected
+35	:: LED
+35	:: LED
+245	:: Hand Not Detected
+32	:: LED
+32	:: LED
+245	:: Hand Not Detected
+32	:: LED
+32	:: LED
+245	:: Hand Not Detected
+36	:: LED
+36	:: LED
+243	:: Hand Not Detected
+36	:: LED
+36	:: LED
+243	:: Hand Not Detected
+37	:: LED
+37	:: LED
+243	:: Hand Not Detected
+37	:: LED
+37	:: LED
+245	:: Hand Not Detected
+26	:: LED
+26	:: LED
+242	:: Hand Not Detected
+26	:: LED
+26	:: LED
+243	:: Hand Not Detected
+28	:: LED
+28	:: LED
+244	:: Hand Not Detected
+28	:: LED
+28	:: LED
+242	:: Hand Not Detected
+24	:: LED
+24	:: LED
+247	:: Hand Not Detected
+24	:: LED
+24	:: LED
+245	:: Hand Not Detected
+24	:: LED
+24	:: LED
+244	:: Hand Not Detected
+24	:: LED
+23	:: LED
+245	:: Hand Not Detected
+23	:: LED
+23	:: LED
+247	:: Hand Not Detected
+23	:: LED
+18	:: LED
+245	:: Hand Not Detected
+18	:: LED
+18	:: LED
+245	:: Hand Not Detected
+18	:: LED
+24	:: LED
+243	:: Hand Not Detected
+24	:: LED
+24	:: LED
+244	:: Hand Not Detected
+24	:: LED
+24	:: LED
+246	:: Hand Not Detected
+24	:: LED
+24	:: LED
+244	:: Hand Not Detected
+24	:: LED
+15	:: LED
+245	:: Hand Not Detected
+15	:: LED
+15	:: LED
+246	:: Hand Not Detected
+15	:: LED
+18	:: LED
+243	:: Hand Not Detected
+18	:: LED
+18	:: LED
+245	:: Hand Not Detected
+18	:: LED
+8	:: LED
+247	:: Hand Not Detected
+8	:: LED
+8	:: LED
+246	:: Hand Not Detected
+8	:: LED
+17	:: LED
+242	:: Hand Not Detected
+17	:: LED
+17	:: LED
+244	:: Hand Not Detected
+17	:: LED
+16	:: LED
+244	:: Hand Not Detected
+16	:: LED
+16	:: LED
+242	:: Hand Not Detected
+16	:: LED
+6	:: LED
+245	:: Hand Not Detected
+6	:: LED
+6	:: LED
+243	:: Hand Not Detected
+6	:: LED
+8	:: LED
+243	:: Hand Not Detected
+8	:: LED
+8	:: LED
+247	:: Hand Not Detected
+9	:: LED
+9	:: LED
+244	:: Hand Not Detected
+9	:: LED
+9	:: LED
+244	:: Hand Not Detected
+5	:: LED
+5	:: LED
+247	:: Hand Not Detected
+5	:: LED
+5	:: LED
+245	:: Hand Not Detected
+6	:: LED
+6	:: LED
+245	:: Hand Not Detected
+6	:: LED
+6	:: LED
+248	:: Hand Not Detected
+-1	:: LED
+-1	:: LED
+246	:: Hand Not Detected
+-1	:: LED
+-1	:: LED
+243	:: Hand Not Detected
+1	:: LED
+1	:: LED
+246	:: Hand Not Detected
+1	:: LED
+1	:: LED
+247	:: Hand Not Detected
+6	:: LED
+6	:: LED
+244	:: Hand Not Detected
+6	:: LED
+6	:: LED
+247	:: Hand Not Detected
+-2	:: LED
+-2	:: LED
+245	:: Hand Not Detected
+-2	:: LED
+-2	:: LED
+247	:: Hand Not Detected
+-3	:: LED
+-3	:: LED
+246	:: Hand Not Detected
+-3	:: LED
+-3	:: LED
+245	:: Hand Not Detected
+-2	:: LED
+-2	:: LED
+245	:: Hand Not Detected
+-2	:: LED
+-2	:: LED
+246	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+246	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+245	:: Hand Not Detected
+-3	:: LED
+-3	:: LED
+246	:: Hand Not Detected
+-3	:: LED
+-11	:: LED
+243	:: Hand Not Detected
+-11	:: LED
+-11	:: LED
+245	:: Hand Not Detected
+-11	:: LED
+-10	:: LED
+245	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+246	:: Hand Not Detected
+-10	:: LED
+-9	:: LED
+245	:: Hand Not Detected
+-9	:: LED
+-9	:: LED
+246	:: Hand Not Detected
+-9	:: LED
+-12	:: LED
+244	:: Hand Not Detected
+-12	:: LED
+-12	:: LED
+245	:: Hand Not Detected
+-12	:: LED
+-12	:: LED
+246	:: Hand Not Detected
+-12	:: LED
+-12	:: LED
+247	:: Hand Not Detected
+-12	:: LED
+-12	:: LED
+245	:: Hand Not Detected
+-12	:: LED
+-12	:: LED
+247	:: Hand Not Detected
+-12	:: LED
+-10	:: LED
+245	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+245	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+247	:: Hand Not Detected
+-10	:: LED
+-10	:: LED
+246	:: Hand Not Detected
+-10	:: LED
+-4	:: LED
+247	:: Hand Not Detected
+-4	:: LED
+-4	:: LED
+248	:: Hand Not Detected
+-4	:: LED
+-2	:: LED
+246	:: Hand Not Detected
+-2	:: LED
+-2	:: LED
+245	:: Hand Not Detected
+-2	:: LED
+-1	:: LED
+244	:: Hand Not Detected
+-1	:: LED
+-1	:: LED
+248	:: Hand Not Detected
+-1	:: LED
+-1	:: LED
+246	:: Hand Not Detected
+-1	:: LED
+-1	:: LED
+245	:: Hand Not Detected
+2	:: LED
+2	:: LED
+245	:: Hand Not Detected
+2	:: LED
+2	:: LED
+247	:: Hand Not Detected
+7	:: LED
+7	:: LED
+246	:: Hand Not Detected
+7	:: LED
+7	:: LED
+247	:: Hand Not Detected
+8	:: LED
+8	:: LED
+247	:: Hand Not Detected
+8	:: LED
+8	:: LED
+246	:: Hand Not Detected
+7	:: LED
+7	:: LED
+245	:: Hand Not Detected
+7	:: LED
+7	:: LED
+246	:: Hand Not Detected
+8	:: LED
+8	:: LED
+247	:: Hand Not Detected
+8	:: LED
+8	:: LED
+246	:: Hand Not Detected
+15	:: LED
+15	:: LED
+246	:: Hand Not Detected
+15	:: LED
+15	:: LED
+245	:: Hand Not Detected
+16	:: LED
+16	:: LED
+245	:: Hand Not Detected
+16	:: LED
+16	:: LED
+245	:: Hand Not Detected
+17	:: LED
+17	:: LED
+246	:: Hand Not Detected
+17	:: LED
+17	:: LED
+246	:: Hand Not Detected
+19	:: LED
+19	:: LED
+246	:: Hand Not Detected
+19	:: LED
+19	:: LED
+247	:: Hand Not Detected
+20	:: LED
+20	:: LED
+247	:: Hand Not Detected
+20	:: LED
+20	:: LED
+247	:: Hand Not Detected
+26	:: LED
+26	:: LED
+246	:: Hand Not Detected
+26	:: LED
+25	:: LED
+246	:: Hand Not Detected
+25	:: LED
+25	:: LED
+246	:: Hand Not Detected
+25	:: LED
+25	:: LED
+246	:: Hand Not Detected
+25	:: LED
+25	:: LED
+245	:: Hand Not Detected
+25	:: LED
+26	:: LED
+245	:: Hand Not Detected
+26	:: LED
+26	:: LED
+245	:: Hand Not Detected
+26	:: LED
+34	:: LED
+245	:: Hand Not Detected
+34	:: LED
+34	:: LED
+245	:: Hand Not Detected
+34	:: LED
+34	:: LED
+244	:: Hand Not Detected
+34	:: LED
+34	:: LED
+248	:: Hand Not Detected
+34	:: LED
+36	:: LED
+245	:: Hand Not Detected
+36	:: LED
+36	:: LED
+247	:: Hand Not Detected
+36	:: LED
+37	:: LED
+244	:: Hand Not Detected
+37	:: LED
+37	:: LED
+244	:: Hand Not Detected
+37	:: LED
+37	:: LED
+246	:: Hand Not Detected
+37	:: LED
+37	:: LED
+245	:: Hand Not Detected
+37	:: LED
+44	:: LED
+246	:: Hand Not Detected
+44	:: LED
+44	:: LED
+245	:: Hand Not Detected
+44	:: LED
+44	:: LED
+245	:: Hand Not Detected
+44	:: LED
+44	:: LED
+246	:: Hand Not Detected
+44	:: LED
+47	:: LED
+245	:: Hand Not Detected
+47	:: LED
+47	:: LED
+247	:: Hand Not Detected
+47	:: LED
+47	:: LED
+245	:: Hand Not Detected
+47	:: LED
+47	:: LED
+248	:: Hand Not Detected
+47	:: LED
+47	:: LED
+247	:: Hand Not Detected
+47	:: LED
+47	:: LED
+244	:: Hand Not Detected
+54	:: LED
+54	:: LED
+245	:: Hand Not Detected
+54	:: LED
+54	:: LED
+246	:: Hand Not Detected
+55	:: LED
+55	:: LED
+247	:: Hand Not Detected
+55	:: LED
+55	:: LED
+246	:: Hand Not Detected
+56	:: LED
+56	:: LED
+245	:: Hand Not Detected
+56	:: LED
+56	:: LED
+243	:: Hand Not Detected
+58	:: LED
+58	:: LED
+246	:: Hand Not Detected
+58	:: LED
+58	:: LED
+248	:: Hand Not Detected
+64	:: LED
+64	:: LED
+243	:: Hand Not Detected
+64	:: LED
+64	:: LED
+244	:: Hand Not Detected
+65	:: LED
+65	:: LED
+248	:: Hand Not Detected
+65	:: LED
+65	:: LED
+244	:: Hand Not Detected
+68	:: LED
+68	:: LED
+245	:: Hand Not Detected
+68	:: LED
+68	:: LED
+245	:: Hand Not Detected
+68	:: LED
+68	:: LED
+245	:: Hand Not Detected
+68	:: LED
+68	:: LED
+244	:: Hand Not Detected
+66	:: LED
+66	:: LED
+247	:: Hand Not Detected
+66	:: LED
+72	:: LED
+247	:: Hand Not Detected
+72	:: LED
+72	:: LED
+245	:: Hand Not Detected
+72	:: LED
+75	:: LED
+243	:: Hand Not Detected
+75	:: LED
+75	:: LED
+246	:: Hand Not Detected
+75	:: LED
+76	:: LED
+247	:: Hand Not Detected
+76	:: LED
+76	:: LED
+243	:: Hand Not Detected
+76	:: LED
+76	:: LED
+247	:: Hand Not Detected
+76	:: LED
+76	:: LED
+245	:: Hand Not Detected
+76	:: LED
+83	:: LED
+245	:: Hand Not Detected
+83	:: LED
+83	:: LED
+245	:: Hand Not Detected
+83	:: LED
+84	:: LED
+244	:: Hand Not Detected
+84	:: LED
+84	:: LED
+244	:: Hand Not Detected
+84	:: LED
+85	:: LED
+243	:: Hand Not Detected
+85	:: LED
+85	:: LED
+246	:: Hand Not Detected
+85	:: LED
+85	:: LED
+245	:: Hand Not Detected
+85	:: LED
+85	:: LED
+242	:: Hand Not Detected
+85	:: LED
+86	:: LED
+244	:: Hand Not Detected
+86	:: LED
+86	:: LED
+243	:: Hand Not Detected
+86	:: LED
+92	:: LED
+244	:: Hand Not Detected
+92	:: LED
+92	:: LED
+244	:: Hand Not Detected
+92	:: LED
+93	:: LED
+245	:: Hand Not Detected
+93	:: LED
+93	:: LED
+245	:: Hand Not Detected
+92	:: LED
+92	:: LED
+244	:: Hand Not Detected
+92	:: LED
+92	:: LED
+244	:: Hand Not Detected
+95	:: LED
+95	:: LED
+244	:: Hand Not Detected
+95	:: LED
+95	:: LED
+246	:: Hand Not Detected
+96	:: LED
+96	:: LED
+245	:: Hand Not Detected
+96	:: LED
+96	:: LED
+243	:: Hand Not Detected
+102	:: LED
+102	:: LED
+246	:: Hand Not Detected
+102	:: LED
+102	:: LED
+244	:: Hand Not Detected
+104	:: LED
+104	:: LED
+245	:: Hand Not Detected
+104	:: LED
+104	:: LED
+242	:: Hand Not Detected
+105	:: LED
+105	:: LED
+245	:: Hand Not Detected
+105	:: LED
+105	:: LED
+243	:: Hand Not Detected
+106	:: LED
+106	:: LED
+243	:: Hand Not Detected
+106	:: LED
+106	:: LED
+245	:: Hand Not Detected
+112	:: LED
+112	:: LED
+244	:: Hand Not Detected
+112	:: LED
+112	:: LED
+244	:: Hand Not Detected
+123	:: LED
+123	:: LED
+244	:: Hand Not Detected
+128	:: LED
+128	:: LED
+242	:: Hand Not Detected
+128	:: LED
+128	:: LED
+244	:: Hand Not Detected
+135	:: LED
+135	:: LED
+248	:: Hand Not Detected
+135	:: LED
+135	:: LED
+243	:: Hand Not Detected
+136	:: LED
+136	:: LED
+243	:: Hand Not Detected
+136	:: LED
+136	:: LED
+245	:: Hand Not Detected
+141	:: LED
+141	:: LED
+243	:: Hand Not Detected
+141	:: LED
+141	:: LED
+244	:: Hand Not Detected
+142	:: LED
+142	:: LED
+245	:: Hand Not Detected
+142	:: LED
+142	:: LED
+245	:: Hand Not Detected
+148	:: LED
+148	:: LED
+242	:: Hand Not Detected
+148	:: LED
+148	:: LED
+243	:: Hand Not Detected
+153	:: LED
+153	:: LED
+244	:: Hand Not Detected
+153	:: LED
+153	:: LED
+245	:: Hand Not Detected
+155	:: LED
+155	:: LED
+244	:: Hand Not Detected
+155	:: LED
+155	:: LED
+246	:: Hand Not Detected
+159	:: LED
+159	:: LED
+243	:: Hand Not Detected
+159	:: LED
+159	:: LED
+243	:: Hand Not Detected
+165	:: LED
+165	:: LED
+244	:: Hand Not Detected
+165	:: LED
+165	:: LED
+243	:: Hand Not Detected
+168	:: LED
+168	:: LED
+241	:: Hand Not Detected
+168	:: LED
+172	:: LED
+241	:: Hand Not Detected
+172	:: LED
+172	:: LED
+242	:: Hand Not Detected
+172	:: LED
+173	:: LED
+243	:: Hand Not Detected
+173	:: LED
+173	:: LED
+242	:: Hand Not Detected
+173	:: LED
+178	:: LED
+242	:: Hand Not Detected
+178	:: LED
+178	:: LED
+243	:: Hand Not Detected
+178	:: LED
+178	:: LED
+244	:: Hand Not Detected
+178	:: LED
+178	:: LED
+245	:: Hand Not Detected
+178	:: LED
+178	:: LED
+243	:: Hand Not Detected
+178	:: LED
+178	:: LED
+244	:: Hand Not Detected
+178	:: LED
+181	:: LED
+243	:: Hand Not Detected
+181	:: LED
+181	:: LED
+241	:: Hand Not Detected
+181	:: LED
+184	:: LED
+243	:: Hand Not Detected
+184	:: LED
+184	:: LED
+243	:: Hand Not Detected
+184	:: LED
+184	:: LED
+241	:: Hand Not Detected
+184	:: LED
+184	:: LED
+244	:: Hand Not Detected
+184	:: LED
+188	:: LED
+241	:: Hand Not Detected
+188	:: LED
+188	:: LED
+241	:: Hand Not Detected
+188	:: LED
+188	:: LED
+242	:: Hand Not Detected
+188	:: LED
+188	:: LED
+243	:: Hand Not Detected
+188	:: LED
+190	:: LED
+241	:: Hand Not Detected
+190	:: LED
+190	:: LED
+242	:: Hand Not Detected
+193	:: LED
+193	:: LED
+243	:: Hand Not Detected
+193	:: LED
+193	:: LED
+242	:: Hand Not Detected
+192	:: LED
+192	:: LED
+241	:: Hand Not Detected
+192	:: LED
+192	:: LED
+242	:: Hand Not Detected
+196	:: LED
+196	:: LED
+242	:: Hand Not Detected
+196	:: LED
+196	:: LED
+242	:: Hand Not Detected
+200	:: LED
+200	:: LED
+242	:: Hand Not Detected
+200	:: LED
+200	:: LED
+242	:: Hand Not Detected
+200	:: LED
+200	:: LED
+241	:: Hand Not Detected
+200	:: LED
+200	:: LED
+241	:: Hand Not Detected
+206	:: LED
+206	:: LED
+241	:: Hand Not Detected
+206	:: LED
+206	:: LED
+243	:: Hand Not Detected
+206	:: LED
+206	:: LED
+241	:: Hand Not Detected
+206	:: LED
+206	:: LED
+244	:: Hand Not Detected
+211	:: LED
+211	:: LED
+241	:: Hand Not Detected
+211	:: LED
+211	:: LED
+239	:: Hand Not Detected
+216	:: LED
+216	:: LED
+241	:: Hand Not Detected
+216	:: LED
+216	:: LED
+241	:: Hand Not Detected
+218	:: LED
+218	:: LED
+241	:: Hand Not Detected
+218	:: LED
+218	:: LED
+239	:: Hand Not Detected
+222	:: LED
+222	:: LED
+242	:: Hand Not Detected
+222	:: LED
+222	:: LED
+241	:: Hand Not Detected
+225	:: LED
+225	:: LED
+240	:: Hand Not Detected
+225	:: LED
+226	:: LED
+241	:: Hand Not Detected
+226	:: LED
+226	:: LED
+239	:: Hand Not Detected
+226	:: LED
+231	:: LED
+241	:: Hand Not Detected
+231	:: LED
+231	:: LED
+241	:: Hand Not Detected
+231	:: LED
+231	:: LED
+240	:: Hand Not Detected
+231	:: LED
+231	:: LED
+241	:: Hand Not Detected
+231	:: LED
+234	:: LED
+240	:: Hand Not Detected
+234	:: LED
+234	:: LED
+240	:: Hand Not Detected
+234	:: LED
+237	:: LED
+239	:: Hand Not Detected
+237	:: LED
+237	:: LED
+241	:: Hand Not Detected
+237	:: LED
+235	:: LED
+240	:: Hand Not Detected
+235	:: LED
+235	:: LED
+239	:: Hand Not Detected
+235	:: LED
+239	:: LED
+241	:: Hand Not Detected
+239	:: LED
+239	:: LED
+240	:: Hand Not Detected
+239	:: LED
+242	:: LED
+241	:: Hand Not Detected
+242	:: LED
+242	:: LED
+240	:: Hand Not Detected
+242	:: LED
+240	:: LED
+241	:: Hand Not Detected
+240	:: LED
+240	:: LED
+241	:: Hand Not Detected
+240	:: LED
+243	:: LED
+239	:: Hand Not Detected
+243	:: LED
+243	:: LED
+239	:: Hand Not Detected
+243	:: LED
+240	:: LED
+240	:: Hand Not Detected
+240	:: LED
+240	:: LED
+240	:: Hand Not Detected
+245	:: LED
+245	:: LED
+237	:: Hand Not Detected
+245	:: LED
+245	:: LED
+238	:: Hand Not Detected
+247	:: LED
+247	:: LED
+240	:: Hand Not Detected
+247	:: LED
+247	:: LED
+238	:: Hand Not Detected
+246	:: LED
+246	:: LED
+241	:: Hand Not Detected
+246	:: LED
+246	:: LED
+237	:: Hand Not Detected
+249	:: LED
+249	:: LED
+239	:: Hand Not Detected
+249	:: LED
+249	:: LED
+239	:: Hand Not Detected
+252	:: LED
+252	:: LED
+239	:: Hand Not Detected
+252	:: LED
+252	:: LED
+240	:: Hand Not Detected
+250	:: LED
+250	:: LED
+239	:: Hand Not Detected
+250	:: LED
+250	:: LED
+239	:: Hand Not Detected
+253	:: LED
+253	:: LED
+238	:: Hand Not Detected
+253	:: LED
+253	:: LED
+237	:: Hand Not Detected
+252	:: LED
+252	:: LED
+239	:: Hand Not Detected
+252	:: LED
+252	:: LED
+237	:: Hand Not Detected
+253	:: LED
+253	:: LED
+236	:: Hand Not Detected
+253	:: LED
+253	:: LED
+238	:: Hand Not Detected
+256	:: LED
+256	:: LED
+235	:: Hand Not Detected
+256	:: LED
+256	:: LED
+239	:: Hand Not Detected
+255	:: LED
+255	:: LED
+236	:: Hand Not Detected
+255	:: LED
+257	:: LED
+236	:: Hand Not Detected
+257	:: LED
+257	:: LED
+236	:: Hand Not Detected
+257	:: LED
+259	:: LED
+236	:: Hand Not Detected
+259	:: LED
+259	:: LED
+236	:: Hand Not Detected
+259	:: LED
+258	:: LED
+239	:: Hand Not Detected
+258	:: LED
+258	:: LED
+235	:: Hand Not Detected
+258	:: LED
+260	:: LED
+236	:: Hand Not Detected
+260	:: LED
+260	:: LED
+239	:: Hand Not Detected
+260	:: LED
+259	:: LED
+237	:: Hand Not Detected
+259	:: LED
+259	:: LED
+235	:: Hand Not Detected
+259	:: LED
+262	:: LED
+237	:: Hand Not Detected
+262	:: LED
+262	:: LED
+236	:: Hand Not Detected
+262	:: LED
+262	:: LED
+234	:: Hand Not Detected
+262	:: LED
+262	:: LED
+233	:: Hand Not Detected
+262	:: LED
+259	:: LED
+236	:: Hand Not Detected
+259	:: LED
+259	:: LED
+234	:: Hand Not Detected
+259	:: LED
+261	:: LED
+235	:: Hand Not Detected
+261	:: LED
+261	:: LED
+236	:: Hand Not Detected
+261	:: LED
+262	:: LED
+234	:: Hand Not Detected
+262	:: LED
+262	:: LED
+234	:: Hand Not Detected
+262	:: LED
+258	:: LED
+234	:: Hand Not Detected
+258	:: LED
+258	:: LED
+233	:: Hand Not Detected
+259	:: LED
+259	:: LED
+235	:: Hand Not Detected
+259	:: LED
+259	:: LED
+235	:: Hand Not Detected
+253	:: LED
+253	:: LED
+234	:: Hand Not Detected
+253	:: LED
+253	:: LED
+234	:: Hand Not Detected
+257	:: LED
+257	:: LED
+234	:: Hand Not Detected
+257	:: LED
+257	:: LED
+234	:: Hand Not Detected
+258	:: LED
+258	:: LED
+233	:: Hand Not Detected
+258	:: LED
+258	:: LED
+231	:: Hand Not Detected
+252	:: LED
+252	:: LED
+234	:: Hand Not Detected
+252	:: LED
+252	:: LED
+234	:: Hand Not Detected
+252	:: LED
+252	:: LED
+235	:: Hand Not Detected
+252	:: LED
+252	:: LED
+233	:: Hand Not Detected
+255	:: LED
+255	:: LED
+233	:: Hand Not Detected
+255	:: LED
+255	:: LED
+233	:: Hand Not Detected
+249	:: LED
+249	:: LED
+233	:: Hand Not Detected
+249	:: LED
+249	:: LED
+233	:: Hand Not Detected
+250	:: LED
+250	:: LED
+234	:: Hand Not Detected
+250	:: LED
+250	:: LED
+231	:: Hand Not Detected
+245	:: LED
+245	:: LED
+233	:: Hand Not Detected
+245	:: LED
+245	:: LED
+233	:: Hand Not Detected
+247	:: LED
+247	:: LED
+233	:: Hand Not Detected
+247	:: LED
+247	:: LED
+230	:: Hand Not Detected
+249	:: LED
+249	:: LED
+232	:: Hand Not Detected
+249	:: LED
+244	:: LED
+233	:: Hand Not Detected
+244	:: LED
+244	:: LED
+233	:: Hand Not Detected
+244	:: LED
+245	:: LED
+231	:: Hand Not Detected
+245	:: LED
+245	:: LED
+232	:: Hand Not Detected
+245	:: LED
+245	:: LED
+233	:: Hand Not Detected
+245	:: LED
+245	:: LED
+230	:: Hand Not Detected
+245	:: LED
+240	:: LED
+232	:: Hand Not Detected
+240	:: LED
+240	:: LED
+231	:: Hand Not Detected
+240	:: LED
+240	:: LED
+232	:: Hand Not Detected
+240	:: LED
+240	:: LED
+230	:: Hand Not Detected
+240	:: LED
+236	:: LED
+229	:: Hand Not Detected
+236	:: LED
+236	:: LED
+230	:: Hand Not Detected
+236	:: LED
+238	:: LED
+230	:: Hand Not Detected
+238	:: LED
+238	:: LED
+232	:: Hand Not Detected
+238	:: LED
+239	:: LED
+232	:: Hand Not Detected
+239	:: LED
+239	:: LED
+230	:: Hand Not Detected
+239	:: LED
+233	:: LED
+231	:: Hand Not Detected
+233	:: LED
+233	:: LED
+230	:: Hand Not Detected
+233	:: LED
+235	:: LED
+228	:: Hand Not Detected
+235	:: LED
+235	:: LED
+229	:: Hand Not Detected
+235	:: LED
+235	:: LED
+230	:: Hand Not Detected
+235	:: LED
+235	:: LED
+228	:: Hand Not Detected
+230	:: LED
+230	:: LED
+231	:: Hand Not Detected
+230	:: LED
+230	:: LED
+229	:: Hand Not Detected
+228	:: LED
+228	:: LED
+228	:: Hand Not Detected
+228	:: LED
+228	:: LED
+229	:: Hand Not Detected
+222	:: LED
+222	:: LED
+227	:: Hand Not Detected
+222	:: LED
+222	:: LED
+230	:: Hand Not Detected
+223	:: LED
+223	:: LED
+228	:: Hand Not Detected
+223	:: LED
+223	:: LED
+228	:: Hand Not Detected
+225	:: LED
+225	:: LED
+227	:: Hand Not Detected
+225	:: LED
+225	:: LED
+230	:: Hand Not Detected
+217	:: LED
+217	:: LED
+230	:: Hand Not Detected
+217	:: LED
+217	:: LED
+229	:: Hand Not Detected
+218	:: LED
+218	:: LED
+229	:: Hand Not Detected
+218	:: LED
+218	:: LED
+228	:: Hand Not Detected
+219	:: LED
+219	:: LED
+228	:: Hand Not Detected
+219	:: LED
+219	:: LED
+227	:: Hand Not Detected
+210	:: LED
+210	:: LED
+226	:: Hand Not Detected
+210	:: LED
+210	:: LED
+225	:: Hand Not Detected
+210	:: LED
+210	:: LED
+227	:: Hand Not Detected
+210	:: LED
+210	:: LED
+227	:: Hand Not Detected
+200	:: LED
+200	:: LED
+226	:: Hand Not Detected
+200	:: LED
+200	:: LED
+228	:: Hand Not Detected
+200	:: LED
+200	:: LED
+224	:: Hand Not Detected
+200	:: LED
+203	:: LED
+224	:: Hand Not Detected
+203	:: LED
+203	:: LED
+227	:: Hand Not Detected
+203	:: LED
+193	:: LED
+225	:: Hand Not Detected
+193	:: LED
+193	:: LED
+226	:: Hand Not Detected
+193	:: LED
+195	:: LED
+226	:: Hand Not Detected
+195	:: LED
+195	:: LED
+224	:: Hand Not Detected
+195	:: LED
+195	:: LED
+224	:: Hand Not Detected
+195	:: LED
+195	:: LED
+228	:: Hand Not Detected
+195	:: LED
+186	:: LED
+226	:: Hand Not Detected
+186	:: LED
+186	:: LED
+223	:: Hand Not Detected
+186	:: LED
+188	:: LED
+221	:: Hand Not Detected
+188	:: LED
+188	:: LED
+225	:: Hand Not Detected
+188	:: LED
+179	:: LED
+223	:: Hand Not Detected
+179	:: LED
+179	:: LED
+223	:: Hand Not Detected
+179	:: LED
+180	:: LED
+223	:: Hand Not Detected
+180	:: LED
+180	:: LED
+223	:: Hand Not Detected
+180	:: LED
+179	:: LED
+222	:: Hand Not Detected
+179	:: LED
+179	:: LED
+221	:: Hand Not Detected
+179	:: LED
+170	:: LED
+222	:: Hand Not Detected
+170	:: LED
+170	:: LED
+226	:: Hand Not Detected
+170	:: LED
+170	:: LED
+222	:: Hand Not Detected
+170	:: LED
+170	:: LED
+221	:: Hand Not Detected
+171	:: LED
+171	:: LED
+222	:: Hand Not Detected
+171	:: LED
+171	:: LED
+222	:: Hand Not Detected
+164	:: LED
+164	:: LED
+221	:: Hand Not Detected
+164	:: LED
+164	:: LED
+222	:: Hand Not Detected
+165	:: LED
+165	:: LED
+221	:: Hand Not Detected
+165	:: LED
+165	:: LED
+221	:: Hand Not Detected
+164	:: LED
+164	:: LED
+221	:: Hand Not Detected
+164	:: LED
+164	:: LED
+221	:: Hand Not Detected
+156	:: LED
+156	:: LED
+219	:: Hand Not Detected
+156	:: LED
+156	:: LED
+221	:: Hand Not Detected
+157	:: LED
+157	:: LED
+221	:: Hand Not Detected
+157	:: LED
+157	:: LED
+220	:: Hand Not Detected
+150	:: LED
+150	:: LED
+220	:: Hand Not Detected
+150	:: LED
+150	:: LED
+219	:: Hand Not Detected
+146	:: LED
+146	:: LED
+219	:: Hand Not Detected
+146	:: LED
+146	:: LED
+220	:: Hand Not Detected
+149	:: LED
+149	:: LED
+220	:: Hand Not Detected
+149	:: LED
+149	:: LED
+219	:: Hand Not Detected
+141	:: LED
+141	:: LED
+219	:: Hand Not Detected
+141	:: LED
+141	:: LED
+218	:: Hand Not Detected
+142	:: LED
+142	:: LED
+218	:: Hand Not Detected
+142	:: LED
+141	:: LED
+218	:: Hand Not Detected
+141	:: LED
+141	:: LED
+216	:: Hand Not Detected
+141	:: LED
+132	:: LED
+217	:: Hand Not Detected
+132	:: LED
+132	:: LED
+216	:: Hand Not Detected
+132	:: LED
+135	:: LED
+216	:: Hand Not Detected
+135	:: LED
+135	:: LED
+215	:: Hand Not Detected
+135	:: LED
+125	:: LED
+217	:: Hand Not Detected
+125	:: LED
+125	:: LED
+214	:: Hand Not Detected
+125	:: LED
+125	:: LED
+214	:: Hand Not Detected
+125	:: LED
+125	:: LED
+215	:: Hand Not Detected
+125	:: LED
+125	:: LED
+215	:: Hand Not Detected
+125	:: LED
+125	:: LED
+216	:: Hand Not Detected
+125	:: LED
+116	:: LED
+214	:: Hand Not Detected
+116	:: LED
+116	:: LED
+216	:: Hand Not Detected
+116	:: LED
+117	:: LED
+214	:: Hand Not Detected
+117	:: LED
+117	:: LED
+213	:: Hand Not Detected
+117	:: LED
+117	:: LED
+213	:: Hand Not Detected
+117	:: LED
+117	:: LED
+214	:: Hand Not Detected
+117	:: LED
+110	:: LED
+214	:: Hand Not Detected
+110	:: LED
+110	:: LED
+213	:: Hand Not Detected
+110	:: LED
+111	:: LED
+215	:: Hand Not Detected
+111	:: LED
+111	:: LED
+215	:: Hand Not Detected
+101	:: LED
+101	:: LED
+211	:: Hand Not Detected
+101	:: LED
+101	:: LED
+212	:: Hand Not Detected
+101	:: LED
+101	:: LED
+212	:: Hand Not Detected
+101	:: LED
+101	:: LED
+210	:: Hand Not Detected
+103	:: LED
+103	:: LED
+209	:: Hand Not Detected
+103	:: LED
+103	:: LED
+211	:: Hand Not Detected
+93	:: LED
+93	:: LED
+209	:: Hand Not Detected
+93	:: LED
+93	:: LED
+209	:: Hand Not Detected
+93	:: LED
+93	:: LED
+209	:: Hand Not Detected
+93	:: LED
+93	:: LED
+209	:: Hand Not Detected
+93	:: LED
+93	:: LED
+208	:: Hand Not Detected
+93	:: LED
+93	:: LED
+208	:: Hand Not Detected
+86	:: LED
+86	:: LED
+210	:: Hand Not Detected
+86	:: LED
+86	:: LED
+208	:: Hand Not Detected
+87	:: LED
+87	:: LED
+209	:: Hand Not Detected
+87	:: LED
+87	:: LED
+208	:: Hand Not Detected
+77	:: LED
+77	:: LED
+208	:: Hand Not Detected
+77	:: LED
+77	:: LED
+207	:: Hand Not Detected
+77	:: LED
+77	:: LED
+208	:: Hand Not Detected
+77	:: LED
+77	:: LED
+205	:: Hand Not Detected
+79	:: LED
+79	:: LED
+208	:: Hand Not Detected
+79	:: LED
+72	:: LED
+206	:: Hand Not Detected
+72	:: LED
+72	:: LED
+207	:: Hand Not Detected
+72	:: LED
+73	:: LED
+206	:: Hand Not Detected
+73	:: LED
+73	:: LED
+207	:: Hand Not Detected
+73	:: LED
+72	:: LED
+206	:: Hand Not Detected
+72	:: LED
+72	:: LED
+206	:: Hand Not Detected
+72	:: LED
+64	:: LED
+203	:: Hand Not Detected
+64	:: LED
+64	:: LED
+204	:: Hand Not Detected
+64	:: LED
+65	:: LED
+205	:: Hand Not Detected
+65	:: LED
+65	:: LED
+205	:: Hand Not Detected
+65	:: LED
+57	:: LED
+204	:: Hand Not Detected
+57	:: LED
+57	:: LED
+206	:: Hand Not Detected
+57	:: LED
+58	:: LED
+204	:: Hand Not Detected
+58	:: LED
+58	:: LED
+202	:: Hand Not Detected
+58	:: LED
+58	:: LED
+202	:: Hand Not Detected
+58	:: LED
+58	:: LED
+203	:: Hand Not Detected
+58	:: LED
+49	:: LED
+203	:: Hand Not Detected
+49	:: LED
+49	:: LED
+201	:: Hand Not Detected
+49	:: LED
+50	:: LED
+202	:: Hand Not Detected
+50	:: LED
+50	:: LED
+200	:: Hand Not Detected
+50	:: LED
+52	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+200	:: Hand Not Detected
+44	:: LED
+44	:: LED
+200	:: Hand Not Detected
+44	:: LED
+44	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+199	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+189	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+189	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+189	:: Hand    Detected
+0	:: LED
+0	:: LED
+191	:: Hand    Detected
+0	:: LED
+0	:: LED
+189	:: Hand    Detected
+0	:: LED
+0	:: LED
+189	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+186	:: Hand    Detected
+0	:: LED
+0	:: LED
+187	:: Hand    Detected
+0	:: LED
+0	:: LED
+186	:: Hand    Detected
+0	:: LED
+0	:: LED
+186	:: Hand    Detected
+0	:: LED
+0	:: LED
+185	:: Hand    Detected
+0	:: LED
+0	:: LED
+186	:: Hand    Detected
+0	:: LED
+0	:: LED
+186	:: Hand    Detected
+0	:: LED
+0	:: LED
+184	:: Hand    Detected
+0	:: LED
+0	:: LED
+184	:: Hand    Detected
+0	:: LED
+0	:: LED
+185	:: Hand    Detected
+0	:: LED
+0	:: LED
+182	:: Hand    Detected
+0	:: LED
+0	:: LED
+182	:: Hand    Detected
+0	:: LED
+0	:: LED
+180	:: Hand    Detected
+0	:: LED
+0	:: LED
+181	:: Hand    Detected
+0	:: LED
+0	:: LED
+182	:: Hand    Detected
+0	:: LED
+0	:: LED
+181	:: Hand    Detected
+0	:: LED
+0	:: LED
+181	:: Hand    Detected
+0	:: LED
+0	:: LED
+179	:: Hand    Detected
+0	:: LED
+0	:: LED
+179	:: Hand    Detected
+0	:: LED
+0	:: LED
+175	:: Hand    Detected
+0	:: LED
+0	:: LED
+179	:: Hand    Detected
+0	:: LED
+0	:: LED
+178	:: Hand    Detected
+0	:: LED
+0	:: LED
+179	:: Hand    Detected
+0	:: LED
+0	:: LED
+176	:: Hand    Detected
+0	:: LED
+0	:: LED
+176	:: Hand    Detected
+0	:: LED
+0	:: LED
+177	:: Hand    Detected
+0	:: LED
+0	:: LED
+173	:: Hand    Detected
+0	:: LED
+0	:: LED
+175	:: Hand    Detected
+0	:: LED
+0	:: LED
+175	:: Hand    Detected
+0	:: LED
+0	:: LED
+170	:: Hand    Detected
+0	:: LED
+0	:: LED
+170	:: Hand    Detected
+0	:: LED
+0	:: LED
+171	:: Hand    Detected
+0	:: LED
+0	:: LED
+170	:: Hand    Detected
+0	:: LED
+0	:: LED
+170	:: Hand    Detected
+0	:: LED
+0	:: LED
+170	:: Hand    Detected
+0	:: LED
+0	:: LED
+169	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+169	:: Hand    Detected
+0	:: LED
+0	:: LED
+166	:: Hand    Detected
+0	:: LED
+0	:: LED
+166	:: Hand    Detected
+0	:: LED
+0	:: LED
+163	:: Hand    Detected
+0	:: LED
+0	:: LED
+165	:: Hand    Detected
+0	:: LED
+0	:: LED
+164	:: Hand    Detected
+0	:: LED
+0	:: LED
+162	:: Hand    Detected
+0	:: LED
+0	:: LED
+162	:: Hand    Detected
+0	:: LED
+0	:: LED
+160	:: Hand    Detected
+0	:: LED
+0	:: LED
+160	:: Hand    Detected
+0	:: LED
+0	:: LED
+160	:: Hand    Detected
+0	:: LED
+0	:: LED
+160	:: Hand    Detected
+0	:: LED
+0	:: LED
+158	:: Hand    Detected
+0	:: LED
+0	:: LED
+156	:: Hand    Detected
+0	:: LED
+0	:: LED
+156	:: Hand    Detected
+0	:: LED
+0	:: LED
+153	:: Hand    Detected
+0	:: LED
+0	:: LED
+154	:: Hand    Detected
+0	:: LED
+0	:: LED
+153	:: Hand    Detected
+0	:: LED
+0	:: LED
+154	:: Hand    Detected
+0	:: LED
+0	:: LED
+154	:: Hand    Detected
+0	:: LED
+0	:: LED
+151	:: Hand    Detected
+0	:: LED
+0	:: LED
+152	:: Hand    Detected
+0	:: LED
+0	:: LED
+152	:: Hand    Detected
+0	:: LED
+0	:: LED
+149	:: Hand    Detected
+0	:: LED
+0	:: LED
+148	:: Hand    Detected
+0	:: LED
+0	:: LED
+147	:: Hand    Detected
+0	:: LED
+0	:: LED
+147	:: Hand    Detected
+0	:: LED
+0	:: LED
+145	:: Hand    Detected
+0	:: LED
+0	:: LED
+146	:: Hand    Detected
+0	:: LED
+0	:: LED
+148	:: Hand    Detected
+0	:: LED
+0	:: LED
+147	:: Hand    Detected
+0	:: LED
+0	:: LED
+145	:: Hand    Detected
+0	:: LED
+0	:: LED
+143	:: Hand    Detected
+0	:: LED
+0	:: LED
+143	:: Hand    Detected
+0	:: LED
+0	:: LED
+144	:: Hand    Detected
+0	:: LED
+0	:: LED
+143	:: Hand    Detected
+0	:: LED
+0	:: LED
+141	:: Hand    Detected
+0	:: LED
+0	:: LED
+141	:: Hand    Detected
+0	:: LED
+0	:: LED
+138	:: Hand    Detected
+0	:: LED
+0	:: LED
+140	:: Hand    Detected
+0	:: LED
+0	:: LED
+138	:: Hand    Detected
+0	:: LED
+0	:: LED
+139	:: Hand    Detected
+0	:: LED
+0	:: LED
+137	:: Hand    Detected
+0	:: LED
+0	:: LED
+133	:: Hand    Detected
+0	:: LED
+0	:: LED
+137	:: Hand    Detected
+0	:: LED
+0	:: LED
+133	:: Hand    Detected
+0	:: LED
+0	:: LED
+132	:: Hand    Detected
+0	:: LED
+0	:: LED
+132	:: Hand    Detected
+0	:: LED
+0	:: LED
+132	:: Hand    Detected
+0	:: LED
+0	:: LED
+131	:: Hand    Detected
+0	:: LED
+0	:: LED
+133	:: Hand    Detected
+0	:: LED
+0	:: LED
+130	:: Hand    Detected
+0	:: LED
+0	:: LED
+130	:: Hand    Detected
+0	:: LED
+0	:: LED
+127	:: Hand    Detected
+0	:: LED
+0	:: LED
+130	:: Hand    Detected
+0	:: LED
+0	:: LED
+128	:: Hand    Detected
+0	:: LED
+0	:: LED
+128	:: Hand    Detected
+0	:: LED
+0	:: LED
+125	:: Hand    Detected
+0	:: LED
+0	:: LED
+126	:: Hand    Detected
+0	:: LED
+0	:: LED
+126	:: Hand    Detected
+0	:: LED
+0	:: LED
+124	:: Hand    Detected
+0	:: LED
+0	:: LED
+123	:: Hand    Detected
+0	:: LED
+0	:: LED
+123	:: Hand    Detected
+0	:: LED
+0	:: LED
+122	:: Hand    Detected
+0	:: LED
+0	:: LED
+122	:: Hand    Detected
+0	:: LED
+0	:: LED
+120	:: Hand    Detected
+0	:: LED
+0	:: LED
+121	:: Hand    Detected
+0	:: LED
+0	:: LED
+121	:: Hand    Detected
+0	:: LED
+0	:: LED
+117	:: Hand    Detected
+0	:: LED
+0	:: LED
+117	:: Hand    Detected
+0	:: LED
+0	:: LED
+117	:: Hand    Detected
+0	:: LED
+0	:: LED
+118	:: Hand    Detected
+0	:: LED
+0	:: LED
+116	:: Hand    Detected
+0	:: LED
+0	:: LED
+115	:: Hand    Detected
+0	:: LED
+0	:: LED
+113	:: Hand    Detected
+0	:: LED
+0	:: LED
+112	:: Hand    Detected
+0	:: LED
+0	:: LED
+114	:: Hand    Detected
+0	:: LED
+0	:: LED
+111	:: Hand    Detected
+0	:: LED
+0	:: LED
+110	:: Hand    Detected
+0	:: LED
+0	:: LED
+110	:: Hand    Detected
+0	:: LED
+0	:: LED
+111	:: Hand    Detected
+0	:: LED
+0	:: LED
+109	:: Hand    Detected
+0	:: LED
+0	:: LED
+109	:: Hand    Detected
+0	:: LED
+0	:: LED
+108	:: Hand    Detected
+0	:: LED
+0	:: LED
+104	:: Hand    Detected
+0	:: LED
+0	:: LED
+107	:: Hand    Detected
+0	:: LED
+0	:: LED
+105	:: Hand    Detected
+0	:: LED
+0	:: LED
+106	:: Hand    Detected
+0	:: LED
+0	:: LED
+104	:: Hand    Detected
+0	:: LED
+0	:: LED
+104	:: Hand    Detected
+0	:: LED
+0	:: LED
+103	:: Hand    Detected
+0	:: LED
+0	:: LED
+102	:: Hand    Detected
+0	:: LED
+0	:: LED
+100	:: Hand    Detected
+0	:: LED
+0	:: LED
+101	:: Hand    Detected
+0	:: LED
+0	:: LED
+100	:: Hand    Detected
+0	:: LED
+0	:: LED
+98	:: Hand    Detected
+0	:: LED
+0	:: LED
+97	:: Hand    Detected
+0	:: LED
+0	:: LED
+97	:: Hand    Detected
+0	:: LED
+0	:: LED
+97	:: Hand    Detected
+0	:: LED
+0	:: LED
+94	:: Hand    Detected
+0	:: LED
+0	:: LED
+95	:: Hand    Detected
+0	:: LED
+0	:: LED
+95	:: Hand    Detected
+0	:: LED
+0	:: LED
+95	:: Hand    Detected
+0	:: LED
+0	:: LED
+92	:: Hand    Detected
+0	:: LED
+0	:: LED
+91	:: Hand    Detected
+0	:: LED
+0	:: LED
+90	:: Hand    Detected
+0	:: LED
+0	:: LED
+90	:: Hand    Detected
+0	:: LED
+0	:: LED
+89	:: Hand    Detected
+0	:: LED
+0	:: LED
+88	:: Hand    Detected
+0	:: LED
+0	:: LED
+86	:: Hand    Detected
+0	:: LED
+0	:: LED
+89	:: Hand    Detected
+0	:: LED
+0	:: LED
+88	:: Hand    Detected
+0	:: LED
+0	:: LED
+86	:: Hand    Detected
+0	:: LED
+0	:: LED
+83	:: Hand    Detected
+0	:: LED
+0	:: LED
+84	:: Hand    Detected
+0	:: LED
+0	:: LED
+82	:: Hand    Detected
+0	:: LED
+0	:: LED
+81	:: Hand    Detected
+0	:: LED
+0	:: LED
+79	:: Hand    Detected
+0	:: LED
+0	:: LED
+80	:: Hand    Detected
+0	:: LED
+0	:: LED
+77	:: Hand    Detected
+0	:: LED
+0	:: LED
+79	:: Hand    Detected
+0	:: LED
+0	:: LED
+77	:: Hand    Detected
+0	:: LED
+0	:: LED
+77	:: Hand    Detected
+0	:: LED
+0	:: LED
+74	:: Hand    Detected
+0	:: LED
+0	:: LED
+74	:: Hand    Detected
+0	:: LED
+0	:: LED
+74	:: Hand    Detected
+0	:: LED
+0	:: LED
+71	:: Hand    Detected
+0	:: LED
+0	:: LED
+70	:: Hand    Detected
+0	:: LED
+0	:: LED
+66	:: Hand    Detected
+0	:: LED
+0	:: LED
+68	:: Hand    Detected
+0	:: LED
+0	:: LED
+67	:: Hand    Detected
+0	:: LED
+0	:: LED
+64	:: Hand    Detected
+0	:: LED
+0	:: LED
+64	:: Hand    Detected
+0	:: LED
+0	:: LED
+63	:: Hand    Detected
+0	:: LED
+0	:: LED
+61	:: Hand    Detected
+0	:: LED
+0	:: LED
+61	:: Hand    Detected
+0	:: LED
+0	:: LED
+59	:: Hand    Detected
+0	:: LED
+0	:: LED
+57	:: Hand    Detected
+0	:: LED
+0	:: LED
+58	:: Hand    Detected
+0	:: LED
+0	:: LED
+55	:: Hand    Detected
+0	:: LED
+0	:: LED
+54	:: Hand    Detected
+0	:: LED
+0	:: LED
+53	:: Hand    Detected
+0	:: LED
+0	:: LED
+52	:: Hand    Detected
+0	:: LED
+0	:: LED
+51	:: Hand    Detected
+0	:: LED
+0	:: LED
+48	:: Hand    Detected
+0	:: LED
+0	:: LED
+45	:: Hand    Detected
+0	:: LED
+0	:: LED
+45	:: Hand    Detected
+0	:: LED
+0	:: LED
+44	:: Hand    Detected
+0	:: LED
+0	:: LED
+42	:: Hand    Detected
+0	:: LED
+0	:: LED
+38	:: Hand    Detected
+0	:: LED
+0	:: LED
+39	:: Hand    Detected
+0	:: LED
+0	:: LED
+38	:: Hand    Detected
+0	:: LED
+0	:: LED
+37	:: Hand    Detected
+0	:: LED
+0	:: LED
+36	:: Hand    Detected
+0	:: LED
+0	:: LED
+31	:: Hand    Detected
+0	:: LED
+0	:: LED
+30	:: Hand    Detected
+0	:: LED
+0	:: LED
+28	:: Hand    Detected
+0	:: LED
+0	:: LED
+30	:: Hand    Detected
+0	:: LED
+0	:: LED
+27	:: Hand    Detected
+0	:: LED
+0	:: LED
+26	:: Hand    Detected
+0	:: LED
+0	:: LED
+24	:: Hand    Detected
+0	:: LED
+0	:: LED
+23	:: Hand    Detected
+0	:: LED
+0	:: LED
+22	:: Hand    Detected
+0	:: LED
+0	:: LED
+20	:: Hand    Detected
+0	:: LED
+0	:: LED
+20	:: Hand    Detected
+0	:: LED
+0	:: LED
+19	:: Hand    Detected
+0	:: LED
+0	:: LED
+17	:: Hand    Detected
+0	:: LED
+0	:: LED
+14	:: Hand    Detected
+0	:: LED
+0	:: LED
+13	:: Hand    Detected
+0	:: LED
+0	:: LED
+13	:: Hand    Detected
+0	:: LED
+0	:: LED
+11	:: Hand    Detected
+0	:: LED
+0	:: LED
+10	:: Hand    Detected
+0	:: LED
+0	:: LED
+10	:: Hand    Detected
+0	:: LED
+0	:: LED
+9	:: Hand    Detected
+0	:: LED
+0	:: LED
+8	:: Hand    Detected
+0	:: LED
+0	:: LED
+7	:: Hand    Detected
+0	:: LED
+0	:: LED
+7	:: Hand    Detected
+0	:: LED
+0	:: LED
+6	:: Hand    Detected
+0	:: LED
+0	:: LED
+6	:: Hand    Detected
+0	:: LED
+0	:: LED
+5	:: Hand    Detected
+0	:: LED
+0	:: LED
+3	:: Hand    Detected
+0	:: LED
+0	:: LED
+4	:: Hand    Detected
+0	:: LED
+0	:: LED
+2	:: Hand    Detected
+0	:: LED
+0	:: LED
+3	:: Hand    Detected
+0	:: LED
+0	:: LED
+2	:: Hand    Detected
+0	:: LED
+0	:: LED
+3	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+0	:: Hand    Detected
+0	:: LED
+0	:: LED
+2	:: Hand    Detected
+0	:: LED
+0	:: LED
+4	:: Hand    Detected
+0	:: LED
+0	:: LED
+3	:: Hand    Detected
+0	:: LED
+0	:: LED
+6	:: Hand    Detected
+0	:: LED
+0	:: LED
+7	:: Hand    Detected
+0	:: LED
+0	:: LED
+8	:: Hand    Detected
+0	:: LED
+0	:: LED
+9	:: Hand    Detected
+0	:: LED
+0	:: LED
+10	:: Hand    Detected
+0	:: LED
+0	:: LED
+13	:: Hand    Detected
+0	:: LED
+0	:: LED
+15	:: Hand    Detected
+0	:: LED
+0	:: LED
+15	:: Hand    Detected
+0	:: LED
+0	:: LED
+16	:: Hand    Detected
+0	:: LED
+0	:: LED
+19	:: Hand    Detected
+0	:: LED
+0	:: LED
+23	:: Hand    Detected
+0	:: LED
+0	:: LED
+26	:: Hand    Detected
+0	:: LED
+0	:: LED
+26	:: Hand    Detected
+0	:: LED
+0	:: LED
+29	:: Hand    Detected
+0	:: LED
+0	:: LED
+34	:: Hand    Detected
+0	:: LED
+0	:: LED
+33	:: Hand    Detected
+0	:: LED
+0	:: LED
+36	:: Hand    Detected
+0	:: LED
+0	:: LED
+38	:: Hand    Detected
+0	:: LED
+0	:: LED
+40	:: Hand    Detected
+0	:: LED
+0	:: LED
+43	:: Hand    Detected
+0	:: LED
+0	:: LED
+45	:: Hand    Detected
+0	:: LED
+0	:: LED
+47	:: Hand    Detected
+0	:: LED
+0	:: LED
+50	:: Hand    Detected
+0	:: LED
+0	:: LED
+51	:: Hand    Detected
+0	:: LED
+0	:: LED
+48	:: Hand    Detected
+0	:: LED
+0	:: LED
+55	:: Hand    Detected
+0	:: LED
+0	:: LED
+55	:: Hand    Detected
+0	:: LED
+0	:: LED
+58	:: Hand    Detected
+0	:: LED
+0	:: LED
+59	:: Hand    Detected
+0	:: LED
+0	:: LED
+59	:: Hand    Detected
+0	:: LED
+0	:: LED
+62	:: Hand    Detected
+0	:: LED
+0	:: LED
+63	:: Hand    Detected
+0	:: LED
+0	:: LED
+66	:: Hand    Detected
+0	:: LED
+0	:: LED
+67	:: Hand    Detected
+0	:: LED
+0	:: LED
+68	:: Hand    Detected
+0	:: LED
+0	:: LED
+72	:: Hand    Detected
+0	:: LED
+0	:: LED
+70	:: Hand    Detected
+0	:: LED
+0	:: LED
+73	:: Hand    Detected
+0	:: LED
+0	:: LED
+75	:: Hand    Detected
+0	:: LED
+0	:: LED
+75	:: Hand    Detected
+0	:: LED
+0	:: LED
+77	:: Hand    Detected
+0	:: LED
+0	:: LED
+79	:: Hand    Detected
+0	:: LED
+0	:: LED
+79	:: Hand    Detected
+0	:: LED
+0	:: LED
+81	:: Hand    Detected
+0	:: LED
+0	:: LED
+81	:: Hand    Detected
+0	:: LED
+0	:: LED
+82	:: Hand    Detected
+0	:: LED
+0	:: LED
+85	:: Hand    Detected
+0	:: LED
+0	:: LED
+85	:: Hand    Detected
+0	:: LED
+0	:: LED
+88	:: Hand    Detected
+0	:: LED
+0	:: LED
+89	:: Hand    Detected
+0	:: LED
+0	:: LED
+90	:: Hand    Detected
+0	:: LED
+0	:: LED
+90	:: Hand    Detected
+0	:: LED
+0	:: LED
+92	:: Hand    Detected
+0	:: LED
+0	:: LED
+94	:: Hand    Detected
+0	:: LED
+0	:: LED
+95	:: Hand    Detected
+0	:: LED
+0	:: LED
+98	:: Hand    Detected
+0	:: LED
+0	:: LED
+97	:: Hand    Detected
+0	:: LED
+0	:: LED
+101	:: Hand    Detected
+0	:: LED
+0	:: LED
+101	:: Hand    Detected
+0	:: LED
+0	:: LED
+101	:: Hand    Detected
+0	:: LED
+0	:: LED
+103	:: Hand    Detected
+0	:: LED
+0	:: LED
+104	:: Hand    Detected
+0	:: LED
+0	:: LED
+105	:: Hand    Detected
+0	:: LED
+0	:: LED
+107	:: Hand    Detected
+0	:: LED
+0	:: LED
+108	:: Hand    Detected
+0	:: LED
+0	:: LED
+107	:: Hand    Detected
+0	:: LED
+0	:: LED
+110	:: Hand    Detected
+0	:: LED
+0	:: LED
+113	:: Hand    Detected
+0	:: LED
+0	:: LED
+112	:: Hand    Detected
+0	:: LED
+0	:: LED
+114	:: Hand    Detected
+0	:: LED
+0	:: LED
+113	:: Hand    Detected
+0	:: LED
+0	:: LED
+115	:: Hand    Detected
+0	:: LED
+0	:: LED
+114	:: Hand    Detected
+0	:: LED
+0	:: LED
+119	:: Hand    Detected
+0	:: LED
+0	:: LED
+119	:: Hand    Detected
+0	:: LED
+0	:: LED
+119	:: Hand    Detected
+0	:: LED
+0	:: LED
+120	:: Hand    Detected
+0	:: LED
+0	:: LED
+120	:: Hand    Detected
+0	:: LED
+0	:: LED
+121	:: Hand    Detected
+0	:: LED
+0	:: LED
+124	:: Hand    Detected
+0	:: LED
+0	:: LED
+125	:: Hand    Detected
+0	:: LED
+0	:: LED
+126	:: Hand    Detected
+0	:: LED
+0	:: LED
+127	:: Hand    Detected
+0	:: LED
+0	:: LED
+126	:: Hand    Detected
+0	:: LED
+0	:: LED
+127	:: Hand    Detected
+0	:: LED
+0	:: LED
+130	:: Hand    Detected
+0	:: LED
+0	:: LED
+130	:: Hand    Detected
+0	:: LED
+0	:: LED
+132	:: Hand    Detected
+0	:: LED
+0	:: LED
+133	:: Hand    Detected
+0	:: LED
+0	:: LED
+132	:: Hand    Detected
+0	:: LED
+0	:: LED
+135	:: Hand    Detected
+0	:: LED
+0	:: LED
+133	:: Hand    Detected
+0	:: LED
+0	:: LED
+135	:: Hand    Detected
+0	:: LED
+0	:: LED
+135	:: Hand    Detected
+0	:: LED
+0	:: LED
+137	:: Hand    Detected
+0	:: LED
+0	:: LED
+138	:: Hand    Detected
+0	:: LED
+0	:: LED
+138	:: Hand    Detected
+0	:: LED
+0	:: LED
+139	:: Hand    Detected
+0	:: LED
+0	:: LED
+140	:: Hand    Detected
+0	:: LED
+0	:: LED
+140	:: Hand    Detected
+0	:: LED
+0	:: LED
+141	:: Hand    Detected
+0	:: LED
+0	:: LED
+142	:: Hand    Detected
+0	:: LED
+0	:: LED
+142	:: Hand    Detected
+0	:: LED
+0	:: LED
+144	:: Hand    Detected
+0	:: LED
+0	:: LED
+143	:: Hand    Detected
+0	:: LED
+0	:: LED
+145	:: Hand    Detected
+0	:: LED
+0	:: LED
+145	:: Hand    Detected
+0	:: LED
+0	:: LED
+146	:: Hand    Detected
+0	:: LED
+0	:: LED
+148	:: Hand    Detected
+0	:: LED
+0	:: LED
+148	:: Hand    Detected
+0	:: LED
+0	:: LED
+148	:: Hand    Detected
+0	:: LED
+0	:: LED
+149	:: Hand    Detected
+0	:: LED
+0	:: LED
+152	:: Hand    Detected
+0	:: LED
+0	:: LED
+149	:: Hand    Detected
+0	:: LED
+0	:: LED
+153	:: Hand    Detected
+0	:: LED
+0	:: LED
+152	:: Hand    Detected
+0	:: LED
+0	:: LED
+154	:: Hand    Detected
+0	:: LED
+0	:: LED
+153	:: Hand    Detected
+0	:: LED
+0	:: LED
+154	:: Hand    Detected
+0	:: LED
+0	:: LED
+154	:: Hand    Detected
+0	:: LED
+0	:: LED
+154	:: Hand    Detected
+0	:: LED
+0	:: LED
+157	:: Hand    Detected
+0	:: LED
+0	:: LED
+158	:: Hand    Detected
+0	:: LED
+0	:: LED
+157	:: Hand    Detected
+0	:: LED
+0	:: LED
+160	:: Hand    Detected
+0	:: LED
+0	:: LED
+160	:: Hand    Detected
+0	:: LED
+0	:: LED
+160	:: Hand    Detected
+0	:: LED
+0	:: LED
+158	:: Hand    Detected
+0	:: LED
+0	:: LED
+161	:: Hand    Detected
+0	:: LED
+0	:: LED
+162	:: Hand    Detected
+0	:: LED
+0	:: LED
+159	:: Hand    Detected
+0	:: LED
+0	:: LED
+163	:: Hand    Detected
+0	:: LED
+0	:: LED
+163	:: Hand    Detected
+0	:: LED
+0	:: LED
+163	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+167	:: Hand    Detected
+0	:: LED
+0	:: LED
+165	:: Hand    Detected
+0	:: LED
+0	:: LED
+169	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+169	:: Hand    Detected
+0	:: LED
+0	:: LED
+171	:: Hand    Detected
+0	:: LED
+0	:: LED
+172	:: Hand    Detected
+0	:: LED
+0	:: LED
+168	:: Hand    Detected
+0	:: LED
+0	:: LED
+174	:: Hand    Detected
+0	:: LED
+0	:: LED
+172	:: Hand    Detected
+0	:: LED
+0	:: LED
+174	:: Hand    Detected
+0	:: LED
+0	:: LED
+174	:: Hand    Detected
+0	:: LED
+0	:: LED
+175	:: Hand    Detected
+0	:: LED
+0	:: LED
+174	:: Hand    Detected
+0	:: LED
+0	:: LED
+174	:: Hand    Detected
+0	:: LED
+0	:: LED
+177	:: Hand    Detected
+0	:: LED
+0	:: LED
+176	:: Hand    Detected
+0	:: LED
+0	:: LED
+176	:: Hand    Detected
+0	:: LED
+0	:: LED
+179	:: Hand    Detected
+0	:: LED
+0	:: LED
+177	:: Hand    Detected
+0	:: LED
+0	:: LED
+178	:: Hand    Detected
+0	:: LED
+0	:: LED
+179	:: Hand    Detected
+0	:: LED
+0	:: LED
+179	:: Hand    Detected
+0	:: LED
+0	:: LED
+178	:: Hand    Detected
+0	:: LED
+0	:: LED
+179	:: Hand    Detected
+0	:: LED
+0	:: LED
+178	:: Hand    Detected
+0	:: LED
+0	:: LED
+181	:: Hand    Detected
+0	:: LED
+0	:: LED
+181	:: Hand    Detected
+0	:: LED
+0	:: LED
+180	:: Hand    Detected
+0	:: LED
+0	:: LED
+180	:: Hand    Detected
+0	:: LED
+0	:: LED
+182	:: Hand    Detected
+0	:: LED
+0	:: LED
+181	:: Hand    Detected
+0	:: LED
+0	:: LED
+183	:: Hand    Detected
+0	:: LED
+0	:: LED
+180	:: Hand    Detected
+0	:: LED
+0	:: LED
+185	:: Hand    Detected
+0	:: LED
+0	:: LED
+183	:: Hand    Detected
+0	:: LED
+0	:: LED
+182	:: Hand    Detected
+0	:: LED
+0	:: LED
+183	:: Hand    Detected
+0	:: LED
+0	:: LED
+183	:: Hand    Detected
+0	:: LED
+0	:: LED
+184	:: Hand    Detected
+0	:: LED
+0	:: LED
+185	:: Hand    Detected
+0	:: LED
+0	:: LED
+184	:: Hand    Detected
+0	:: LED
+0	:: LED
+187	:: Hand    Detected
+0	:: LED
+0	:: LED
+185	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+184	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+187	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+187	:: Hand    Detected
+0	:: LED
+0	:: LED
+187	:: Hand    Detected
+0	:: LED
+0	:: LED
+190	:: Hand    Detected
+0	:: LED
+0	:: LED
+188	:: Hand    Detected
+0	:: LED
+0	:: LED
+189	:: Hand    Detected
+0	:: LED
+0	:: LED
+190	:: Hand    Detected
+0	:: LED
+0	:: LED
+191	:: Hand    Detected
+0	:: LED
+0	:: LED
+191	:: Hand    Detected
+0	:: LED
+0	:: LED
+189	:: Hand    Detected
+0	:: LED
+0	:: LED
+191	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+192	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+193	:: Hand    Detected
+0	:: LED
+0	:: LED
+196	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+195	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+199	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+194	:: Hand    Detected
+0	:: LED
+0	:: LED
+199	:: Hand    Detected
+0	:: LED
+0	:: LED
+196	:: Hand    Detected
+0	:: LED
+0	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+197	:: Hand    Detected
+0	:: LED
+0	:: LED
+198	:: Hand    Detected
+0	:: LED
+0	:: LED
+200	:: Hand Not Detected
+36	:: LED
+37	:: LED
+200	:: Hand Not Detected
+37	:: LED
+37	:: LED
+200	:: Hand Not Detected
+37	:: LED
+37	:: LED
+201	:: Hand Not Detected
+37	:: LED
+37	:: LED
+199	:: Hand    Detected
+0	:: LED
+0	:: LED
+199	:: Hand    Detected
+0	:: LED
+0	:: LED
+203	:: Hand Not Detected
+44	:: LED
+44	:: LED
+200	:: Hand Not Detected
+44	:: LED
+44	:: LED
+202	:: Hand Not Detected
+44	:: LED
+47	:: LED
+202	:: Hand Not Detected
+47	:: LED
+47	:: LED
+204	:: Hand Not Detected
+47	:: LED
+47	:: LED
+202	:: Hand Not Detected
+47	:: LED
+47	:: LED
+203	:: Hand Not Detected
+47	:: LED
+47	:: LED
+203	:: Hand Not Detected
+47	:: LED
+47	:: LED
+203	:: Hand Not Detected
+54	:: LED
+54	:: LED
+203	:: Hand Not Detected
+54	:: LED
+54	:: LED
+204	:: Hand Not Detected
+55	:: LED
+55	:: LED
+203	:: Hand Not Detected
+55	:: LED
+55	:: LED
+203	:: Hand Not Detected
+56	:: LED
+56	:: LED
+205	:: Hand Not Detected
+56	:: LED
+56	:: LED
+205	:: Hand Not Detected
+58	:: LED
+58	:: LED
+205	:: Hand Not Detected
+58	:: LED
+58	:: LED
+206	:: Hand Not Detected
+64	:: LED
+64	:: LED
+206	:: Hand Not Detected
+64	:: LED
+64	:: LED
+207	:: Hand Not Detected
+65	:: LED
+65	:: LED
+206	:: Hand Not Detected
+65	:: LED
+65	:: LED
+204	:: Hand Not Detected
+68	:: LED
+68	:: LED
+209	:: Hand Not Detected
+68	:: LED
+68	:: LED
+208	:: Hand Not Detected
+68	:: LED
+68	:: LED
+205	:: Hand Not Detected
+68	:: LED
+68	:: LED
+208	:: Hand Not Detected
+66	:: LED
+66	:: LED
+208	:: Hand Not Detected
+66	:: LED
+72	:: LED
+207	:: Hand Not Detected
+72	:: LED
+72	:: LED
+211	:: Hand Not Detected
+72	:: LED
+75	:: LED
+208	:: Hand Not Detected
+75	:: LED
+75	:: LED
+208	:: Hand Not Detected
+75	:: LED
+76	:: LED
+208	:: Hand Not Detected
+76	:: LED
+76	:: LED
+210	:: Hand Not Detected
+76	:: LED
+76	:: LED
+208	:: Hand Not Detected
+76	:: LED
+76	:: LED
+209	:: Hand Not Detected
+76	:: LED
+83	:: LED
+210	:: Hand Not Detected
+83	:: LED
+83	:: LED
+209	:: Hand Not Detected
+83	:: LED
+84	:: LED
+213	:: Hand Not Detected
+84	:: LED
+84	:: LED
+213	:: Hand Not Detected
+84	:: LED
+85	:: LED
+211	:: Hand Not Detected
+85	:: LED
+85	:: LED
+213	:: Hand Not Detected
+85	:: LED
+85	:: LED
+212	:: Hand Not Detected
+85	:: LED
+85	:: LED
+212	:: Hand Not Detected
+85	:: LED
+86	:: LED
+215	:: Hand Not Detected
+86	:: LED
+86	:: LED
+214	:: Hand Not Detected
+86	:: LED
+92	:: LED
+213	:: Hand Not Detected
+92	:: LED
+92	:: LED
+214	:: Hand Not Detected
+92	:: LED
+93	:: LED
+213	:: Hand Not Detected
+93	:: LED
+93	:: LED
+213	:: Hand Not Detected
+92	:: LED
+92	:: LED
+217	:: Hand Not Detected
+92	:: LED
+92	:: LED
+216	:: Hand Not Detected
+95	:: LED
+95	:: LED
+217	:: Hand Not Detected
+95	:: LED
+95	:: LED
+218	:: Hand Not Detected
+96	:: LED
+96	:: LED
+215	:: Hand Not Detected
+96	:: LED
+96	:: LED
+218	:: Hand Not Detected
+102	:: LED
+102	:: LED
+217	:: Hand Not Detected
+102	:: LED
+102	:: LED
+218	:: Hand Not Detected
+104	:: LED
+104	:: LED
+219	:: Hand Not Detected
+104	:: LED
+104	:: LED
+219	:: Hand Not Detected
+105	:: LED
+105	:: LED
+218	:: Hand Not Detected
+105	:: LED
+105	:: LED
+219	:: Hand Not Detected
+106	:: LED
+106	:: LED
+217	:: Hand Not Detected
+106	:: LED
+106	:: LED
+219	:: Hand Not Detected
+112	:: LED
+112	:: LED
+220	:: Hand Not Detected
+112	:: LED
+112	:: LED
+219	:: Hand Not Detected
+123	:: LED
+123	:: LED
+220	:: Hand Not Detected
+128	:: LED
+128	:: LED
+220	:: Hand Not Detected
+128	:: LED
+128	:: LED
+221	:: Hand Not Detected
+135	:: LED
+135	:: LED
+220	:: Hand Not Detected
+135	:: LED
+135	:: LED
+223	:: Hand Not Detected
+136	:: LED
+136	:: LED
+222	:: Hand Not Detected
+136	:: LED
+136	:: LED
+221	:: Hand Not Detected
+141	:: LED
+141	:: LED
+220	:: Hand Not Detected
+141	:: LED
+141	:: LED
+222	:: Hand Not Detected
+142	:: LED
+142	:: LED
+224	:: Hand Not Detected
+142	:: LED
+142	:: LED
+222	:: Hand Not Detected
+148	:: LED
+148	:: LED
+224	:: Hand Not Detected
+148	:: LED
+148	:: LED
+225	:: Hand Not Detected
+153	:: LED
+153	:: LED
+224	:: Hand Not Detected
+153	:: LED
+153	:: LED
+225	:: Hand Not Detected
+155	:: LED
+155	:: LED
+227	:: Hand Not Detected
+155	:: LED
+155	:: LED
+226	:: Hand Not Detected
+159	:: LED
+159	:: LED
+226	:: Hand Not Detected
+159	:: LED
+159	:: LED
+226	:: Hand Not Detected
+165	:: LED
+165	:: LED
+224	:: Hand Not Detected
+165	:: LED
+165	:: LED
+226	:: Hand Not Detected
+168	:: LED
+168	:: LED
+226	:: Hand Not Detected
+168	:: LED
+172	:: LED
+227	:: Hand Not Detected
+172	:: LED
+172	:: LED
+227	:: Hand Not Detected
+172	:: LED
+173	:: LED
+226	:: Hand Not Detected
+173	:: LED
+173	:: LED
+229	:: Hand Not Detected
+173	:: LED
+178	:: LED
+228	:: Hand Not Detected
+178	:: LED
+178	:: LED
+228	:: Hand Not Detected
+178	:: LED
+178	:: LED
+228	:: Hand Not Detected
+178	:: LED
+178	:: LED
+229	:: Hand Not Detected
+178	:: LED
+178	:: LED
+229	:: Hand Not Detected
+178	:: LED
+178	:: LED
+231	:: Hand Not Detected
+178	:: LED
+181	:: LED
+230	:: Hand Not Detected
+181	:: LED
+181	:: LED
+229	:: Hand Not Detected
+181	:: LED
+184	:: LED
+228	:: Hand Not Detected
+184	:: LED
+184	:: LED
+231	:: Hand Not Detected
+184	:: LED
+184	:: LED
+233	:: Hand Not Detected
+184	:: LED
+184	:: LED
+230	:: Hand Not Detected
+184	:: LED
+188	:: LED
+233	:: Hand Not Detected
+188	:: LED
+188	:: LED
+232	:: Hand Not Detected
+188	:: LED
+188	:: LED
+231	:: Hand Not Detected
+188	:: LED
+188	:: LED
+233	:: Hand Not Detected
+188	:: LED
+190	:: LED
+233	:: Hand Not Detected
+190	:: LED
+190	:: LED
+232	:: Hand Not Detected
+193	:: LED
+193	:: LED
+232	:: Hand Not Detected
+193	:: LED
+193	:: LED
+231	:: Hand Not Detected
+192	:: LED
+192	:: LED
+234	:: Hand Not Detected
+192	:: LED
+192	:: LED
+230	:: Hand Not Detected
+196	:: LED
+196	:: LED
+232	:: Hand Not Detected
+196	:: LED
+196	:: LED
+232	:: Hand Not Detected
+200	:: LED
+200	:: LED
+234	:: Hand Not Detected
+200	:: LED
+200	:: LED
+233	:: Hand Not Detected
+200	:: LED
+200	:: LED
+233	:: Hand Not Detected
+200	:: LED
+200	:: LED
+234	:: Hand Not Detected
+206	:: LED
+206	:: LED
+233	:: Hand Not Detected
+206	:: LED
+206	:: LED
+234	:: Hand Not Detected
+206	:: LED
+206	:: LED
+235	:: Hand Not Detected
+206	:: LED
+206	:: LED
+233	:: Hand Not Detected
+211	:: LED
+211	:: LED
+237	:: Hand Not Detected
+211	:: LED
+211	:: LED
+233	:: Hand Not Detected
+216	:: LED
+216	:: LED
+234	:: Hand Not Detected
+216	:: LED
+216	:: LED
+234	:: Hand Not Detected
+218	:: LED
+218	:: LED
+236	:: Hand Not Detected
+218	:: LED
+218	:: LED
+235	:: Hand Not Detected
+222	:: LED
+222	:: LED
+236	:: Hand Not Detected
+222	:: LED
+222	:: LED
+239	:: Hand Not Detected
+225	:: LED
+225	:: LED
+238	:: Hand Not Detected
+225	:: LED
+226	:: LED
+238	:: Hand Not Detected
+226	:: LED
+226	:: LED
+237	:: Hand Not Detected
+226	:: LED
+231	:: LED
+236	:: Hand Not Detected
+231	:: LED
+231	:: LED
+237	:: Hand Not Detected
+231	:: LED
+231	:: LED
+237	:: Hand Not Detected
+231	:: LED
+231	:: LED
+236	:: Hand Not Detected
+231	:: LED
+234	:: LED
+235	:: Hand Not Detected
+234	:: LED
+234	:: LED
+238	:: Hand Not Detected
+234	:: LED
+237	:: LED
+238	:: Hand Not Detected
+237	:: LED
+237	:: LED
+240	:: Hand Not Detected
+237	:: LED
+235	:: LED
+239	:: Hand Not Detected
+235	:: LED
+235	:: LED
+237	:: Hand Not Detected
+235	:: LED
+239	:: LED
+235	:: Hand Not Detected
+239	:: LED
+239	:: LED
+239	:: Hand Not Detected
+239	:: LED
+242	:: LED
+236	:: Hand Not Detected
+242	:: LED
+242	:: LED
+236	:: Hand Not Detected
+242	:: LED
+240	:: LED
+238	:: Hand Not Detected
+240	:: LED
+240	:: LED
+238	:: Hand Not Detected
+240	:: LED
+243	:: LED
+239	:: Hand Not Detected
+243	:: LED
+243	:: LED
+238	:: Hand Not Detected
+243	:: LED
+240	:: LED
+237	:: Hand Not Detected
+240	:: LED
+240	:: LED
+238	:: Hand Not Detected
+245	:: LED
+245	:: LED
+237	:: Hand Not Detected
+245	:: LED
+245	:: LED
+240	:: Hand Not Detected
+247	:: LED
+247	:: LED
+236	:: Hand Not Detected
+247	:: LED
+247	:: LED
+238	:: Hand Not Detected
+246	:: LED
+246	:: LED
+238	:: Hand Not Detected
+246	:: LED
+246	:: LED
+239	:: Hand Not Detected
+249	:: LED
+249	:: LED
+237	:: Hand Not Detected
+249	:: LED
+249	:: LED
+240	:: Hand Not Detected
+252	:: LED
+252	:: LED
+240	:: Hand Not Detected
+252	:: LED
+252	:: LED
