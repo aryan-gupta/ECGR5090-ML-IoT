@@ -45,7 +45,7 @@ void HandleOutput(tflite::ErrorReporter* error_reporter, float x_value,
     // - -1  => error
     int proximity = APDS.readProximity();
 
-    if (proximity < 225 and proximity > 175) {
+    if (proximity < 200) {
       run_led = false;
 
       // print value to the Serial Monitor
