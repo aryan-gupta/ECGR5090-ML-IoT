@@ -45,13 +45,18 @@ void HandleOutput(tflite::ErrorReporter* error_reporter, float x_value,
     // - -1  => error
     int proximity = APDS.readProximity();
 
-    // print value to the Serial Monitor
-    Serial.println(proximity);
-
     if (proximity < 225 and proximity > 175) {
       run_led = false;
+
+      // print value to the Serial Monitor
+      Serial.print(proximity);
+      Serial.print("\t:: Hand    Detected\n");
     } else {
       run_led = true;
+
+      // print value to the Serial Monitor
+      Serial.print(proximity);
+      Serial.print("\t:: Hand Not Detected\n");
     }
   }
 
@@ -72,10 +77,14 @@ void HandleOutput(tflite::ErrorReporter* error_reporter, float x_value,
   // and y=1 is fully on. The LED's brightness can range from 0-255.
   int brightness = (int)(127.5f * (y_value + 1));
 
+  // print value to the Serial Monitor
+  Serial.print(brightness);
+  Serial.print("\t:: LED\n");
+
   // Set the brightness of the LED. If the specified pin does not support PWM,
   // this will result in the LED being on when y > 127, off otherwise.
   analogWrite(led, brightness);
 
   // Log the current brightness value for display in the Arduino plotter
-  TF_LITE_REPORT_ERROR(error_reporter, "%d\n", brightness);
+  // TF_LITE_REPORT_ERROR(error_reporter, "%d\n", brightness);
 }
